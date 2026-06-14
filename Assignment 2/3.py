@@ -1,5 +1,6 @@
 
-#3. id() : id() function returns the unique identity (memory address) of an object. 
+#3.What does id() function do? Is the value returned by id() same for two variables holding same values? 
+# id() : id() function returns the unique identity (memory address) of an object. 
 # This helps understand how Python manages memory and object refrences.
 #  Yes, the value returned by id() is same for two variables holding same values as;
 # a. variables store refrences, not values

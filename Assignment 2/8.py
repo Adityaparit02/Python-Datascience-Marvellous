@@ -1,3 +1,4 @@
+#8.predict output of the following code:
 x=input("Enter number:")
 print(type(x))
 

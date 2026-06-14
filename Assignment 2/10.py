@@ -1,4 +1,4 @@
-#diffrence between the below two:
+#10.Difference between the below two:
 print("10"+"20")
 print(10+20)
 

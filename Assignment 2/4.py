@@ -1,4 +1,4 @@
-#The purpose of getsizeof():
+#4.The purpose of getsizeof():
 #getsizeof() function returns the memory size (in bytes) occupied by an object.
 
 #Diffrent memory size for diffrent data types :

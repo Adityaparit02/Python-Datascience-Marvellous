@@ -1,3 +1,6 @@
+
+#6.program to perform addition of two numbers, substraction, multiplication and division of two numbers by taking input:
+
 num1=float(input("Enter first number: "))
 num2=float(input("Enter second number: "))
 
