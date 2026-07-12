@@ -4,19 +4,20 @@ import time
 
 
 def fact(n):
-    print(f"Process id is : {os.getpid()}")
     fact=1
     for i in range(1,n+1):
         fact=fact*i
+    print(f"The process id is : {os.getpid()}")
+
     return fact
 
 def main():
-    no=int(input("Enter value : "))
+    data = [10,15,20,25]
 
     start_time=time.perf_counter()
 
     pobj=multiprocessing.Pool()
-    result=pobj.map(fact,(no,))
+    result=pobj.map(fact,data)
     pobj.close()
     pobj.join
 

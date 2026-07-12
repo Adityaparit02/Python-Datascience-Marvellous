@@ -15,7 +15,7 @@ def countprimes(n):
 
         if isprime:
             count += 1
-
+    
     print(f"Process ID : {os.getpid()}")
     print(f"Input Number : {n}")
     print(f"Total Prime Numbers : {count}\n")
