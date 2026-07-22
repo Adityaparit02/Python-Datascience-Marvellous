@@ -1,0 +1,30 @@
+_____________________________________
+Directory Scanned : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 31/Marvellous
+Number of SubDirectories Scanned :  3
+Number of Files Scanned :  16
+Scan Time  :  Tue Jul 21 15:50:54 2026
+________________________________________
+Directory Scanned : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 31/Marvellous
+Number of SubDirectories Scanned :  3
+Number of Files Scanned :  16
+Scan Time  :  Tue Jul 21 15:52:07 2026
+________________________________________
+Directory Scanned : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 31/Marvellous
+Number of SubDirectories Scanned :  3
+Number of Files Scanned :  16
+Scan Time  :  Tue Jul 21 15:53:34 2026
+________________________________________
+Directory Scanned : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 31/Marvellous
+Number of SubDirectories Scanned :  3
+Number of Files Scanned :  16
+Scan Time  :  Tue Jul 21 15:57:07 2026
+________________________________________
+Directory Scanned : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 31/Marvellous
+Number of SubDirectories Scanned :  3
+Number of Files Scanned :  16
+Scan Time  :  Tue Jul 21 16:07:14 2026
+________________________________________
+Directory Scanned : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 31/Marvellous
+Number of SubDirectories Scanned :  3
+Number of Files Scanned :  16
+Scan Time  :  Tue Jul 21 16:07:20 2026

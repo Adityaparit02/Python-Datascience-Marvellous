@@ -1,0 +1,8 @@
+________________________________________
+Directory Scanned : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 31/Marvellous
+Number of Files Scanned :  16
+Scan Time  :  Tue Jul 21 16:31:56 2026
+________________________________________
+Directory Scanned : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 31/Marvellous
+Number of Files Scanned :  16
+Scan Time  :  Tue Jul 21 16:32:01 2026

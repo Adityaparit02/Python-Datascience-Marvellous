@@ -1,0 +1,42 @@
+
+The Empty File Path is : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 32/32.1_txt_Files/demo.txt 
+Scanned Time  : Wed Jul 22 12:00:17 2026 
+Deletion Time  : Wed Jul 22 12:00:17 2026 
+
+________________________________________
+
+The Empty File Path is : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 32/32.1_txt_Files/demo copy 4.txt 
+Scanned Time  : Wed Jul 22 12:00:17 2026 
+Deletion Time  : Wed Jul 22 12:00:17 2026 
+
+________________________________________
+
+The Empty File Path is : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 32/32.1_txt_Files/demo copy 5.txt 
+Scanned Time  : Wed Jul 22 12:00:17 2026 
+Deletion Time  : Wed Jul 22 12:00:17 2026 
+
+________________________________________
+
+The Empty File Path is : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 32/32.1_txt_Files/demo copy 6.txt 
+Scanned Time  : Wed Jul 22 12:00:17 2026 
+Deletion Time  : Wed Jul 22 12:00:17 2026 
+
+________________________________________
+
+The Empty File Path is : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 32/32.1_txt_Files/demo copy 2.txt 
+Scanned Time  : Wed Jul 22 12:00:17 2026 
+Deletion Time  : Wed Jul 22 12:00:17 2026 
+
+________________________________________
+
+The Empty File Path is : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 32/32.1_txt_Files/demo copy 3.txt 
+Scanned Time  : Wed Jul 22 12:00:17 2026 
+Deletion Time  : Wed Jul 22 12:00:17 2026 
+
+________________________________________
+
+The Empty File Path is : /Users/adityanamdeoparit/Desktop/Marvellous Infosystems (Data science with python)/Assignments/Assignment 32/32.1_txt_Files/demo copy.txt 
+Scanned Time  : Wed Jul 22 12:00:17 2026 
+Deletion Time  : Wed Jul 22 12:00:17 2026 
+
+________________________________________
