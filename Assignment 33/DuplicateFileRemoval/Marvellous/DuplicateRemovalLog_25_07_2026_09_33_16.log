@@ -1,0 +1,31 @@
+------------------------------------------------------------
+Duplicate File Removal Automation
+------------------------------------------------------------
+
+Starting Time : 2026-07-25 09:33:16.712560
+Completion Time : 2026-07-25 09:33:16.714103
+
+Directory Scanned : Demo
+Total Files : 21
+Duplicate Files Deleted : 5
+
+Deleted Files
+------------------------------------------------------------
+Demo/Satara/AutomationScript4 copy 4.py
+Checksum : 7ceb7d7821b6078aed65b5c9553709d6
+
+Demo/Satara/AutomationScript4 copy 5.py
+Checksum : 7ceb7d7821b6078aed65b5c9553709d6
+
+Demo/Satara/AutomationScript4 copy 2.py
+Checksum : 7ceb7d7821b6078aed65b5c9553709d6
+
+Demo/Satara/AutomationScript4 copy 3.py
+Checksum : 7ceb7d7821b6078aed65b5c9553709d6
+
+Demo/Satara/AutomationScript4 copy.py
+Checksum : 7ceb7d7821b6078aed65b5c9553709d6
+
+
+Email Status : Pending
+------------------------------------------------------------

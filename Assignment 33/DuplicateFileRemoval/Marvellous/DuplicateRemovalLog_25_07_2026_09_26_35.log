@@ -1,0 +1,43 @@
+------------------------------------------------------------
+Duplicate File Removal Automation
+------------------------------------------------------------
+
+Starting Time : 2026-07-25 09:26:35.443598
+Completion Time : 2026-07-25 09:26:35.445330
+
+Directory Scanned : Demo
+Total Files : 25
+Duplicate Files Deleted : 9
+
+Deleted Files
+------------------------------------------------------------
+Demo/Mumbai/File_Read copy 5.py
+Checksum : 4272bd1f21998f983d225eb6e07ceb20
+
+Demo/Mumbai/File_Read copy 6.py
+Checksum : 4272bd1f21998f983d225eb6e07ceb20
+
+Demo/Mumbai/File_Read copy 7.py
+Checksum : 4272bd1f21998f983d225eb6e07ceb20
+
+Demo/Mumbai/File_Read copy 8.py
+Checksum : 4272bd1f21998f983d225eb6e07ceb20
+
+Demo/Mumbai/File_Read copy 9.py
+Checksum : 4272bd1f21998f983d225eb6e07ceb20
+
+Demo/Pune/ScheduleDemo1 copy.py
+Checksum : b03cb0f543bd7786af9ba50e16dab2d8
+
+Demo/Pune/ScheduleDemo1 copy 3.py
+Checksum : b03cb0f543bd7786af9ba50e16dab2d8
+
+Demo/Pune/ScheduleDemo1 copy 2.py
+Checksum : b03cb0f543bd7786af9ba50e16dab2d8
+
+Demo/Pune/ScheduleDemo1 copy 4.py
+Checksum : b03cb0f543bd7786af9ba50e16dab2d8
+
+
+Email Status : Pending
+------------------------------------------------------------
