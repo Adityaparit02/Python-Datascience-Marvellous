@@ -1,10 +1,13 @@
 ###############################################################################################
-#    
-#    Importing Required Libraries
 #
+#   Import Required Modules
+#
+#   Description :
+#   Imports all the standard libraries and user-defined modules required
+#   for command-line processing, scheduling, directory handling,
+#   duplicate detection, logging and email functionality.
 #
 ###############################################################################################
-
 
 import sys
 
@@ -19,17 +22,40 @@ from DuplicateModule import *
 from EmailModule import *
 
 ###############################################################################################
-#    
-#       Function Name : Duplicate Files Scanner
-#       Input :         Name of Directory
-#       Description :   Deletes all empty files periodically
-#       Date :          25/07/2026
-#       Author :        Aditya Namdeo Parit
 #
+#   Project Name : Duplicate File Removal Automation
+#   File Name    : DuplicateFileRemoval.py
+#   Description  : Main controller of the automation script. It validates the
+#                  command line arguments, schedules the automation process,
+#                  and coordinates duplicate file removal and email reporting.
+#
+#   Author       : Aditya Namdeo Parit
+#   Date         : 25/07/2026
 #
 ###############################################################################################
 
 
+
+
+
+
+
+
+###############################################################################################
+#
+#   Function Name : DisplayHelp
+#
+#   Description :
+#   Displays complete help information about the automation script,
+#   including syntax, required arguments and an example of execution.
+#
+#   Input  : None
+#   Output : Displays help information on the console
+#
+#   Author : Aditya Namdeo Parit
+#   Date   : 25/07/2026
+#
+###############################################################################################
 
 def DisplayHelp():
 
@@ -57,6 +83,23 @@ def DisplayHelp():
 
 
 
+
+###############################################################################################
+#
+#   Function Name : DisplayUsage
+#
+#   Description :
+#   Displays the correct command-line syntax when the user provides
+#   invalid or insufficient arguments.
+#
+#   Input  : None
+#   Output : Displays usage information on the console
+#
+#   Author : Aditya Namdeo Parit
+#   Date   : 25/07/2026
+#
+###############################################################################################
+
 def DisplayUsage():
 
     print()
@@ -71,6 +114,30 @@ def DisplayUsage():
 
     print("<ReceiverEmail>")
 
+
+
+###############################################################################################
+#
+#   Function Name : ValidateArguments
+#
+#   Description :
+#   Validates all command-line arguments entered by the user.
+#   It verifies:
+#       - Number of command-line arguments
+#       - Directory existence
+#       - Valid directory path
+#       - Numeric interval
+#       - Positive interval value
+#       - Valid email address
+#
+#   Input  : Command-line arguments
+#   Output : Returns True if all validations succeed,
+#            otherwise returns False.
+#
+#   Author : Aditya Namdeo Parit
+#   Date   : 25/07/2026
+#
+###############################################################################################
 
 def ValidateArguments():
 
@@ -132,14 +199,40 @@ def ValidateArguments():
 
     return True
 
-def Automation():
 
+
+###############################################################################################
+#
+#   Function Name : Automation
+#
+#   Description :
+#   Coordinates the complete duplicate file removal process.
+#   It performs duplicate scanning, creates the log file,
+#   sends the email report and displays the email status.
+#
+#   Input  : Directory path and receiver email obtained from
+#            command-line arguments.
+#
+#   Output : Deletes duplicate files, creates a log file,
+#            sends an email report and prints email status.
+#
+#   Author : Aditya Namdeo Parit
+#   Date   : 25/07/2026
+#
+###############################################################################################
+
+def Automation():
+# Extract directory and receiver email from command-line arguments
     Directory = sys.argv[1]
     Receiver = sys.argv[3]
 
-    Sender = "adityaparit44@gmail.com"
-    Password = "kxni wtxz zicm pvsu"
 
+# Sender Gmail credentials (App Password required)
+    Sender = "adityaparit44@gmail.com"
+    Password = "xxxxxxxxxxxxxxxx"
+
+
+# Perform duplicate file removal operation
     (
         StartTime,
         EndTime,
@@ -176,14 +269,24 @@ def Automation():
     print("Email Status :", Status)
 
 
+
+
 ###############################################################################################
-#    
-#       Function Name : Main
-#       Input :         Directory Name , time interval and email as Command Line Input
-#       Description :   Automator Starter
-#       Date :          25/07/2026
-#       Author :        Aditya Namdeo Parit
 #
+#   Function Name : main
+#
+#   Description :
+#   Entry point of the application.
+#   Validates command-line arguments, schedules the automation
+#   at the specified interval and starts the first execution.
+#
+#   Input  : Directory path, time interval and receiver email
+#            from the command line.
+#
+#   Output : Starts the automation scheduler.
+#
+#   Author : Aditya Namdeo Parit
+#   Date   : 25/07/2026
 #
 ###############################################################################################
 
@@ -195,24 +298,28 @@ def main():
 
     Interval = int(sys.argv[2])
 
+# Schedule the automation to execute periodically
     schedule.every(Interval).minutes.do(Automation)
 
+
+# Execute once immediately before scheduler starts
     Automation()
 
+
+# Keep checking for pending scheduled tasks
     while True:
 
         schedule.run_pending()
 
-        time.sleep(1)
+        time.sleep(Interval * 0.7)
+
 
 
 ###############################################################################################
-#    
-#    start of automation script
 #
+#   Program Execution Starts Here
 #
 ###############################################################################################
-
 if __name__=="__main__":
 
     main()

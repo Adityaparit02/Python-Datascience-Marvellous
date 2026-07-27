@@ -1,0 +1,3516 @@
+__________________________________________________
+-----------------Running Processes-----------------
+Time : Tue Jul 28 00:08:14 2026
+__________________________________________________
+PID : 0
+Name : kernel_task
+Username : root
+__________________________________________________
+PID : 1
+Name : launchd
+Username : root
+__________________________________________________
+PID : 98
+Name : logd
+Username : root
+__________________________________________________
+PID : 99
+Name : smd
+Username : root
+__________________________________________________
+PID : 100
+Name : UserEventAgent
+Username : root
+__________________________________________________
+PID : 102
+Name : fseventsd
+Username : root
+__________________________________________________
+PID : 103
+Name : mediaremoted
+Username : root
+__________________________________________________
+PID : 106
+Name : systemstats
+Username : root
+__________________________________________________
+PID : 108
+Name : accessoryupdater
+Username : _accessoryupdater
+__________________________________________________
+PID : 109
+Name : uarpassetmanager
+Username : _accessoryupdater
+__________________________________________________
+PID : 110
+Name : configd
+Username : root
+__________________________________________________
+PID : 111
+Name : endpointsecurity
+Username : root
+__________________________________________________
+PID : 112
+Name : powerd
+Username : root
+__________________________________________________
+PID : 113
+Name : IOMFB_bics_daemo
+Username : root
+__________________________________________________
+PID : 115
+Name : amfid
+Username : root
+__________________________________________________
+PID : 117
+Name : remoted
+Username : root
+__________________________________________________
+PID : 119
+Name : keybagd
+Username : root
+__________________________________________________
+PID : 120
+Name : softwareupdated
+Username : _softwareupdate
+__________________________________________________
+PID : 121
+Name : corespeechd_syst
+Username : _corespeechd
+__________________________________________________
+PID : 123
+Name : watchdogd
+Username : root
+__________________________________________________
+PID : 127
+Name : mds
+Username : root
+__________________________________________________
+PID : 128
+Name : iconservicesd
+Username : _iconservices
+__________________________________________________
+PID : 129
+Name : kernelmanagerd
+Username : root
+__________________________________________________
+PID : 130
+Name : diskarbitrationd
+Username : root
+__________________________________________________
+PID : 133
+Name : coreduetd
+Username : root
+__________________________________________________
+PID : 134
+Name : syslogd
+Username : root
+__________________________________________________
+PID : 136
+Name : thermalmonitord
+Username : root
+__________________________________________________
+PID : 137
+Name : contextstored
+Username : root
+__________________________________________________
+PID : 138
+Name : xprotectd
+Username : root
+__________________________________________________
+PID : 139
+Name : opendirectoryd
+Username : root
+__________________________________________________
+PID : 140
+Name : apsd
+Username : root
+__________________________________________________
+PID : 141
+Name : launchservicesd
+Username : root
+__________________________________________________
+PID : 142
+Name : timed
+Username : _timed
+__________________________________________________
+PID : 143
+Name : usbmuxd
+Username : _usbmuxd
+__________________________________________________
+PID : 144
+Name : securityd
+Username : root
+__________________________________________________
+PID : 146
+Name : locationd
+Username : _locationd
+__________________________________________________
+PID : 147
+Name : nesessionmanager
+Username : root
+__________________________________________________
+PID : 149
+Name : autofsd
+Username : root
+__________________________________________________
+PID : 150
+Name : dasd
+Username : root
+__________________________________________________
+PID : 151
+Name : corerepaird
+Username : root
+__________________________________________________
+PID : 153
+Name : distnoted
+Username : _distnote
+__________________________________________________
+PID : 154
+Name : AppleCredentialM
+Username : root
+__________________________________________________
+PID : 156
+Name : dirhelper
+Username : root
+__________________________________________________
+PID : 157
+Name : logind
+Username : root
+__________________________________________________
+PID : 158
+Name : revisiond
+Username : root
+__________________________________________________
+PID : 159
+Name : KernelEventAgent
+Username : root
+__________________________________________________
+PID : 160
+Name : peakpowermanager
+Username : root
+__________________________________________________
+PID : 161
+Name : usermanagerd
+Username : root
+__________________________________________________
+PID : 163
+Name : bluetoothd
+Username : root
+__________________________________________________
+PID : 164
+Name : notifyd
+Username : root
+__________________________________________________
+PID : 165
+Name : sandboxd
+Username : root
+__________________________________________________
+PID : 166
+Name : corebrightnessd
+Username : root
+__________________________________________________
+PID : 167
+Name : AirPlayXPCHelper
+Username : root
+__________________________________________________
+PID : 168
+Name : com.apple.cmio.r
+Username : root
+__________________________________________________
+PID : 169
+Name : aslmanager
+Username : root
+__________________________________________________
+PID : 170
+Name : WindowServer
+Username : root
+__________________________________________________
+PID : 171
+Name : tccd
+Username : root
+__________________________________________________
+PID : 172
+Name : loginwindow
+Username : root
+__________________________________________________
+PID : 173
+Name : cfprefsd
+Username : root
+__________________________________________________
+PID : 174
+Name : coreservicesd
+Username : root
+__________________________________________________
+PID : 176
+Name : fskitd
+Username : root
+__________________________________________________
+PID : 177
+Name : runningboardd
+Username : root
+__________________________________________________
+PID : 178
+Name : powerexperienced
+Username : root
+__________________________________________________
+PID : 179
+Name : backupd-helper
+Username : root
+__________________________________________________
+PID : 180
+Name : PowerUIAgent
+Username : root
+__________________________________________________
+PID : 181
+Name : trustd
+Username : _trustd
+__________________________________________________
+PID : 182
+Name : lsd
+Username : root
+__________________________________________________
+PID : 183
+Name : coreaudiod
+Username : _coreaudiod
+__________________________________________________
+PID : 184
+Name : trustdFileHelper
+Username : root
+__________________________________________________
+PID : 185
+Name : liquiddetectiond
+Username : root
+__________________________________________________
+PID : 186
+Name : apfsd
+Username : root
+__________________________________________________
+PID : 187
+Name : nsurlsessiond
+Username : _nsurlsessiond
+__________________________________________________
+PID : 188
+Name : nehelper
+Username : root
+__________________________________________________
+PID : 189
+Name : centaurid
+Username : root
+__________________________________________________
+PID : 190
+Name : accessoryd
+Username : root
+__________________________________________________
+PID : 191
+Name : analyticsd
+Username : _analyticsd
+__________________________________________________
+PID : 192
+Name : biometrickitd
+Username : root
+__________________________________________________
+PID : 193
+Name : mobileassetd
+Username : root
+__________________________________________________
+PID : 199
+Name : containermanager
+Username : root
+__________________________________________________
+PID : 200
+Name : logd_helper
+Username : root
+__________________________________________________
+PID : 201
+Name : socketfilterfw
+Username : root
+__________________________________________________
+PID : 202
+Name : systemstatusd
+Username : root
+__________________________________________________
+PID : 203
+Name : biomed
+Username : _biome
+__________________________________________________
+PID : 205
+Name : eligibilityd
+Username : root
+__________________________________________________
+PID : 206
+Name : hidd
+Username : _hidd
+__________________________________________________
+PID : 209
+Name : distnoted
+Username : _windowserver
+__________________________________________________
+PID : 210
+Name : secinitd
+Username : root
+__________________________________________________
+PID : 213
+Name : sysextd
+Username : root
+__________________________________________________
+PID : 214
+Name : backgroundtaskma
+Username : root
+__________________________________________________
+PID : 215
+Name : cryptexd
+Username : root
+__________________________________________________
+PID : 220
+Name : airportd
+Username : root
+__________________________________________________
+PID : 221
+Name : distnoted
+Username : _coreaudiod
+__________________________________________________
+PID : 224
+Name : symptomsd
+Username : _networkd
+__________________________________________________
+PID : 225
+Name : findmydeviced
+Username : root
+__________________________________________________
+PID : 227
+Name : authd
+Username : root
+__________________________________________________
+PID : 228
+Name : distnoted
+Username : root
+__________________________________________________
+PID : 229
+Name : mDNSResponder
+Username : _mdnsresponder
+__________________________________________________
+PID : 236
+Name : com.apple.CodeSi
+Username : root
+__________________________________________________
+PID : 237
+Name : syspolicyd
+Username : root
+__________________________________________________
+PID : 239
+Name : com.apple.audio.
+Username : _coreaudiod
+__________________________________________________
+PID : 241
+Name : com.apple.audio.
+Username : _coreaudiod
+__________________________________________________
+PID : 246
+Name : audiomxd
+Username : _audiomxd
+__________________________________________________
+PID : 249
+Name : securityd_system
+Username : root
+__________________________________________________
+PID : 251
+Name : AudioComponentRe
+Username : root
+__________________________________________________
+PID : 252
+Name : com.apple.Mobile
+Username : root
+__________________________________________________
+PID : 253
+Name : distnoted
+Username : _cmiodalassistants
+__________________________________________________
+PID : 254
+Name : WirelessRadioMan
+Username : root
+__________________________________________________
+PID : 255
+Name : com.apple.audio.
+Username : _coreaudiod
+__________________________________________________
+PID : 256
+Name : findmybeaconingd
+Username : root
+__________________________________________________
+PID : 257
+Name : cloudd
+Username : root
+__________________________________________________
+PID : 259
+Name : audioclocksyncd
+Username : root
+__________________________________________________
+PID : 260
+Name : mDNSResponderHel
+Username : root
+__________________________________________________
+PID : 264
+Name : PlugInLibrarySer
+Username : root
+__________________________________________________
+PID : 266
+Name : com.apple.cmio.v
+Username : _cmiodalassistants
+__________________________________________________
+PID : 268
+Name : cameracaptured
+Username : _cmiodalassistants
+__________________________________________________
+PID : 269
+Name : UVCAssistant
+Username : _cmiodalassistants
+__________________________________________________
+PID : 272
+Name : colorsync.displa
+Username : root
+__________________________________________________
+PID : 276
+Name : com.apple.ColorS
+Username : root
+__________________________________________________
+PID : 277
+Name : PerfPowerTelemet
+Username : root
+__________________________________________________
+PID : 280
+Name : audioanalyticsd
+Username : root
+__________________________________________________
+PID : 282
+Name : colorsyncd
+Username : root
+__________________________________________________
+PID : 283
+Name : AppleDeviceQuery
+Username : _coreaudiod
+__________________________________________________
+PID : 286
+Name : storagekitd
+Username : root
+__________________________________________________
+PID : 287
+Name : backupd
+Username : root
+__________________________________________________
+PID : 292
+Name : com.apple.Driver
+Username : _driverkit
+__________________________________________________
+PID : 294
+Name : appleh16camerad
+Username : _cmiodalassistants
+__________________________________________________
+PID : 295
+Name : modelmanagerd
+Username : _modelmanagerd
+__________________________________________________
+PID : 297
+Name : mobileactivation
+Username : root
+__________________________________________________
+PID : 298
+Name : com.apple.AppleU
+Username : _driverkit
+__________________________________________________
+PID : 299
+Name : AppleDeviceQuery
+Username : root
+__________________________________________________
+PID : 300
+Name : appleeventsd
+Username : _appleevents
+__________________________________________________
+PID : 306
+Name : com.apple.geod
+Username : _locationd
+__________________________________________________
+PID : 309
+Name : triald_system
+Username : root
+__________________________________________________
+PID : 310
+Name : distnoted
+Username : _locationd
+__________________________________________________
+PID : 312
+Name : modelcatalogd
+Username : root
+__________________________________________________
+PID : 313
+Name : secinitd
+Username : _locationd
+__________________________________________________
+PID : 315
+Name : cfprefsd
+Username : _locationd
+__________________________________________________
+PID : 318
+Name : trustd
+Username : _locationd
+__________________________________________________
+PID : 320
+Name : bootinstalld
+Username : root
+__________________________________________________
+PID : 326
+Name : containermanager
+Username : _locationd
+__________________________________________________
+PID : 327
+Name : suhelperd
+Username : root
+__________________________________________________
+PID : 328
+Name : mds_stores
+Username : _mds_stores
+__________________________________________________
+PID : 330
+Name : com.apple.geod
+Username : _cmiodalassistants
+__________________________________________________
+PID : 331
+Name : secinitd
+Username : _cmiodalassistants
+__________________________________________________
+PID : 332
+Name : searchpartyd
+Username : root
+__________________________________________________
+PID : 333
+Name : cfprefsd
+Username : _cmiodalassistants
+__________________________________________________
+PID : 334
+Name : softwareupdated
+Username : _softwareupdate
+__________________________________________________
+PID : 336
+Name : CategoriesServic
+Username : root
+__________________________________________________
+PID : 337
+Name : trustd
+Username : _cmiodalassistants
+__________________________________________________
+PID : 338
+Name : distnoted
+Username : _audiomxd
+__________________________________________________
+PID : 339
+Name : containermanager
+Username : _cmiodalassistants
+__________________________________________________
+PID : 340
+Name : AppleCentauriAlp
+Username : _driverkit
+__________________________________________________
+PID : 341
+Name : distnoted
+Username : _nsurlsessiond
+__________________________________________________
+PID : 342
+Name : AppleCentauriCon
+Username : _driverkit
+__________________________________________________
+PID : 344
+Name : AppleCentauriBet
+Username : _driverkit
+__________________________________________________
+PID : 345
+Name : distnoted
+Username : _softwareupdate
+__________________________________________________
+PID : 346
+Name : osanalyticshelpe
+Username : root
+__________________________________________________
+PID : 348
+Name : symptomsd-diag
+Username : root
+__________________________________________________
+PID : 349
+Name : rtcreportingd
+Username : root
+__________________________________________________
+PID : 351
+Name : CloudTelemetrySe
+Username : root
+__________________________________________________
+PID : 352
+Name : ContextService
+Username : root
+__________________________________________________
+PID : 354
+Name : ACCHWComponentAu
+Username : root
+__________________________________________________
+PID : 357
+Name : com.apple.Mobile
+Username : root
+__________________________________________________
+PID : 358
+Name : distnoted
+Username : _spotlight
+__________________________________________________
+PID : 359
+Name : FindMyDeviceShar
+Username : root
+__________________________________________________
+PID : 360
+Name : coreauthd
+Username : root
+__________________________________________________
+PID : 361
+Name : filecoordination
+Username : root
+__________________________________________________
+PID : 362
+Name : ctkahp
+Username : root
+__________________________________________________
+PID : 364
+Name : nfcd
+Username : _applepay
+__________________________________________________
+PID : 365
+Name : UARPUpdaterServi
+Username : _accessoryupdater
+__________________________________________________
+PID : 366
+Name : UARPUpdaterServi
+Username : _accessoryupdater
+__________________________________________________
+PID : 367
+Name : UARPUpdaterServi
+Username : _accessoryupdater
+__________________________________________________
+PID : 368
+Name : UARPUpdaterServi
+Username : _accessoryupdater
+__________________________________________________
+PID : 369
+Name : UARPUpdaterServi
+Username : _accessoryupdater
+__________________________________________________
+PID : 372
+Name : distnoted
+Username : _accessoryupdater
+__________________________________________________
+PID : 375
+Name : ctkd
+Username : _ctkd
+__________________________________________________
+PID : 376
+Name : systemsoundserve
+Username : root
+__________________________________________________
+PID : 379
+Name : sysmond
+Username : root
+__________________________________________________
+PID : 380
+Name : ThunderboltAcces
+Username : _accessoryupdater
+__________________________________________________
+PID : 381
+Name : NFStorageServer
+Username : _applepay
+__________________________________________________
+PID : 382
+Name : distnoted
+Username : _applepay
+__________________________________________________
+PID : 383
+Name : systemstats
+Username : root
+__________________________________________________
+PID : 396
+Name : wifip2pd
+Username : root
+__________________________________________________
+PID : 397
+Name : akd
+Username : root
+__________________________________________________
+PID : 400
+Name : WiFiCloudAssetsX
+Username : root
+__________________________________________________
+PID : 401
+Name : adid
+Username : _fpsd
+__________________________________________________
+PID : 404
+Name : wifianalyticsd
+Username : root
+__________________________________________________
+PID : 407
+Name : GSSCred
+Username : root
+__________________________________________________
+PID : 410
+Name : applekeystored
+Username : root
+__________________________________________________
+PID : 411
+Name : distnoted
+Username : adityanamdeoparit
+__________________________________________________
+PID : 412
+Name : cfprefsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 413
+Name : secd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 414
+Name : corekdld
+Username : root
+__________________________________________________
+PID : 415
+Name : TrustedPeersHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 416
+Name : UserEventAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 417
+Name : gamecontrollerd
+Username : _gamecontrollerd
+__________________________________________________
+PID : 418
+Name : seld
+Username : _applepay
+__________________________________________________
+PID : 419
+Name : uarpd
+Username : _accessoryupdater
+__________________________________________________
+PID : 421
+Name : CoreServicesUIAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 422
+Name : com.apple.sbd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 423
+Name : universalaccessd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 424
+Name : knowledge-agent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 425
+Name : ContinuityCaptureAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 426
+Name : pboard
+Username : adityanamdeoparit
+__________________________________________________
+PID : 427
+Name : imklaunchagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 428
+Name : lsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 429
+Name : pkd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 430
+Name : containermanagerd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 431
+Name : BiomeAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 432
+Name : linkd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 433
+Name : CommCenter
+Username : adityanamdeoparit
+__________________________________________________
+PID : 434
+Name : APFSUserAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 435
+Name : mobilerepaird
+Username : adityanamdeoparit
+__________________________________________________
+PID : 437
+Name : nsurlsessiond
+Username : adityanamdeoparit
+__________________________________________________
+PID : 438
+Name : rapportd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 439
+Name : routined
+Username : adityanamdeoparit
+__________________________________________________
+PID : 440
+Name : usernoted
+Username : adityanamdeoparit
+__________________________________________________
+PID : 441
+Name : AccessibilityVisualsAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 442
+Name : lockoutagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 443
+Name : usernotificationsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 444
+Name : secinitd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 445
+Name : talagentd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 446
+Name : WindowManager
+Username : adityanamdeoparit
+__________________________________________________
+PID : 447
+Name : Dock
+Username : adityanamdeoparit
+__________________________________________________
+PID : 448
+Name : ControlCenter
+Username : adityanamdeoparit
+__________________________________________________
+PID : 449
+Name : SystemUIServer
+Username : adityanamdeoparit
+__________________________________________________
+PID : 450
+Name : Finder
+Username : adityanamdeoparit
+__________________________________________________
+PID : 453
+Name : AccessibilityUIServer
+Username : adityanamdeoparit
+__________________________________________________
+PID : 454
+Name : csnameddatad
+Username : adityanamdeoparit
+__________________________________________________
+PID : 455
+Name : corespotlightd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 456
+Name : dmd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 457
+Name : WallpaperAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 458
+Name : com.apple.hiservices-xpcservice
+Username : adityanamdeoparit
+__________________________________________________
+PID : 459
+Name : distnoted
+Username : _appleevents
+__________________________________________________
+PID : 460
+Name : ScreenTimeAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 461
+Name : trustd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 462
+Name : com.apple.quicklook.ThumbnailsAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 463
+Name : QuickLookUIService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 464
+Name : CoreLocationAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 465
+Name : siriactionsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 466
+Name : ContextStoreAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 467
+Name : callservicesd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 468
+Name : tccd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 469
+Name : sociallayerd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 470
+Name : automountd
+Username : root
+__________________________________________________
+PID : 471
+Name : suggestd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 472
+Name : calaccessd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 473
+Name : sharedfilelistd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 474
+Name : PAH_Extension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 475
+Name : fileproviderd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 476
+Name : AMPDeviceDiscoveryAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 477
+Name : bird
+Username : adityanamdeoparit
+__________________________________________________
+PID : 478
+Name : ViewBridgeAuxiliary
+Username : adityanamdeoparit
+__________________________________________________
+PID : 479
+Name : fontd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 481
+Name : syncdefaultsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 482
+Name : identityservicesd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 483
+Name : iconservicesagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 484
+Name : intelligentroutingd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 485
+Name : audioaccessoryd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 486
+Name : accountsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 487
+Name : mobiletimerd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 488
+Name : replayd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 489
+Name : AudioComponentRegistrar
+Username : adityanamdeoparit
+__________________________________________________
+PID : 490
+Name : wallpaperexportd
+Username : root
+__________________________________________________
+PID : 491
+Name : com.apple.geod
+Username : adityanamdeoparit
+__________________________________________________
+PID : 492
+Name : extensionkitservice
+Username : adityanamdeoparit
+__________________________________________________
+PID : 493
+Name : chronod
+Username : adityanamdeoparit
+__________________________________________________
+PID : 495
+Name : LoginUserService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 496
+Name : WallpaperAerialsExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 497
+Name : fontworker
+Username : adityanamdeoparit
+__________________________________________________
+PID : 498
+Name : WallpaperImageExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 500
+Name : deleted
+Username : adityanamdeoparit
+__________________________________________________
+PID : 502
+Name : assessmentagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 503
+Name : donotdisturbd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 504
+Name : ScopedBookmarkAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 505
+Name : WiFiAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 506
+Name : communicationtrustd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 507
+Name : localizationswitcherd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 508
+Name : nearbyd
+Username : _nearbyd
+__________________________________________________
+PID : 509
+Name : cloudd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 510
+Name : findmylocateagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 511
+Name : CMFSyncAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 512
+Name : transparencyd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 513
+Name : liveactivitiesd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 514
+Name : ctkd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 515
+Name : replicatord
+Username : adityanamdeoparit
+__________________________________________________
+PID : 516
+Name : coreauthd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 517
+Name : imagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 518
+Name : AppleDeviceQuery
+Username : root
+__________________________________________________
+PID : 519
+Name : sharingd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 520
+Name : NotificationCenter
+Username : adityanamdeoparit
+__________________________________________________
+PID : 521
+Name : useractivityd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 522
+Name : com.apple.dock.extra
+Username : adityanamdeoparit
+__________________________________________________
+PID : 523
+Name : heard
+Username : adityanamdeoparit
+__________________________________________________
+PID : 524
+Name : corespeechd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 525
+Name : axassetsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 529
+Name : Siri
+Username : adityanamdeoparit
+__________________________________________________
+PID : 530
+Name : icdd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 531
+Name : appplaceholdersyncd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 532
+Name : askpermissiond
+Username : adityanamdeoparit
+__________________________________________________
+PID : 534
+Name : ManagedSettingsAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 535
+Name : AirPlayUIAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 536
+Name : diagnostics_agent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 537
+Name : TextInputMenuAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 539
+Name : amsaccountsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 541
+Name : ctkahp
+Username : adityanamdeoparit
+__________________________________________________
+PID : 543
+Name : deviceinterfaced
+Username : root
+__________________________________________________
+PID : 544
+Name : SoftwareUpdateNotificationManager
+Username : adityanamdeoparit
+__________________________________________________
+PID : 545
+Name : FindMyMacd
+Username : root
+__________________________________________________
+PID : 546
+Name : extensionkitservice
+Username : adityanamdeoparit
+__________________________________________________
+PID : 547
+Name : MTLCompilerServi
+Username : root
+__________________________________________________
+PID : 548
+Name : ContainerMetadataExtractor
+Username : adityanamdeoparit
+__________________________________________________
+PID : 549
+Name : com.apple.CloudDocs.iCloudDriveFileProvider
+Username : adityanamdeoparit
+__________________________________________________
+PID : 550
+Name : pbs
+Username : adityanamdeoparit
+__________________________________________________
+PID : 551
+Name : Spotlight
+Username : adityanamdeoparit
+__________________________________________________
+PID : 552
+Name : followupd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 553
+Name : TextInputSwitcher
+Username : adityanamdeoparit
+__________________________________________________
+PID : 554
+Name : CallHistoryPluginHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 555
+Name : ReportCrash
+Username : adityanamdeoparit
+__________________________________________________
+PID : 556
+Name : kernelmanager_he
+Username : root
+__________________________________________________
+PID : 557
+Name : parsecd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 558
+Name : FamilyControlsAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 559
+Name : spotlightknowledged.updater
+Username : adityanamdeoparit
+__________________________________________________
+PID : 560
+Name : StatusKitAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 561
+Name : CursorUIViewService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 562
+Name : familycircled
+Username : adityanamdeoparit
+__________________________________________________
+PID : 564
+Name : duetexpertd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 565
+Name : UIKitSystem
+Username : adityanamdeoparit
+__________________________________________________
+PID : 567
+Name : photolibraryd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 568
+Name : neagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 569
+Name : assistant_cdmd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 571
+Name : PlugInLibraryService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 572
+Name : distnoted
+Username : _corespeechd
+__________________________________________________
+PID : 573
+Name : itunescloudd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 574
+Name : containermanager
+Username : _corespeechd
+__________________________________________________
+PID : 575
+Name : networkserviceproxy
+Username : adityanamdeoparit
+__________________________________________________
+PID : 576
+Name : intents_helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 577
+Name : triald
+Username : adityanamdeoparit
+__________________________________________________
+PID : 578
+Name : akd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 581
+Name : IOUserBluetoothS
+Username : _driverkit
+__________________________________________________
+PID : 582
+Name : IOUserBluetoothS
+Username : _driverkit
+__________________________________________________
+PID : 583
+Name : com.apple.FaceTime.FTConversationService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 584
+Name : milod
+Username : adityanamdeoparit
+__________________________________________________
+PID : 585
+Name : sirittsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 586
+Name : WiFiCloudAssetsXPCService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 587
+Name : homed
+Username : adityanamdeoparit
+__________________________________________________
+PID : 588
+Name : localspeechrecognition
+Username : adityanamdeoparit
+__________________________________________________
+PID : 589
+Name : AppSSOAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 590
+Name : mediaremoteagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 591
+Name : avconferenced
+Username : adityanamdeoparit
+__________________________________________________
+PID : 592
+Name : commerce
+Username : adityanamdeoparit
+__________________________________________________
+PID : 593
+Name : generativeexperiencesd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 594
+Name : iCloudNotificationAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 595
+Name : AppSSODaemon
+Username : root
+__________________________________________________
+PID : 596
+Name : AudioConverterHardenedService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 597
+Name : AudioConverterService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 598
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 600
+Name : appleaccountd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 601
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 602
+Name : diagnosticextensionsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 603
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 604
+Name : ReportCrash
+Username : root
+__________________________________________________
+PID : 605
+Name : historicalaudiod
+Username : root
+__________________________________________________
+PID : 606
+Name : ReportSystemMemo
+Username : _reportsystemmemory
+__________________________________________________
+PID : 607
+Name : deleted_helper
+Username : root
+__________________________________________________
+PID : 608
+Name : localspeechrecognition
+Username : adityanamdeoparit
+__________________________________________________
+PID : 609
+Name : searchpartyuseragent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 610
+Name : jetpackassetd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 611
+Name : mediaanalysisd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 612
+Name : CloudTelemetryService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 613
+Name : cdpd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 614
+Name : IMDPersistenceAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 615
+Name : amsengagementd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 616
+Name : frauddefensed
+Username : adityanamdeoparit
+__________________________________________________
+PID : 617
+Name : extensionkitservice
+Username : adityanamdeoparit
+__________________________________________________
+PID : 618
+Name : CalendarWidgetExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 619
+Name : maild
+Username : adityanamdeoparit
+__________________________________________________
+PID : 620
+Name : aned
+Username : root
+__________________________________________________
+PID : 622
+Name : photoanalysisd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 623
+Name : swtransparencyd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 624
+Name : cloudphotod
+Username : adityanamdeoparit
+__________________________________________________
+PID : 625
+Name : SidecarRelay
+Username : adityanamdeoparit
+__________________________________________________
+PID : 626
+Name : siriinferenced
+Username : adityanamdeoparit
+__________________________________________________
+PID : 627
+Name : AssetCacheLocatorService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 628
+Name : ContextService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 629
+Name : AssetCache
+Username : _assetcache
+__________________________________________________
+PID : 630
+Name : FeatureAccessAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 631
+Name : TrialArchivingService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 633
+Name : recentsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 634
+Name : lockdownmoded
+Username : adityanamdeoparit
+__________________________________________________
+PID : 635
+Name : BTLEServerAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 636
+Name : bluetoothuserd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 637
+Name : coresymbolicatio
+Username : root
+__________________________________________________
+PID : 638
+Name : UsageTrackingAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 639
+Name : WorldClockWidget
+Username : adityanamdeoparit
+__________________________________________________
+PID : 640
+Name : CoreThreadCommissionerServiced
+Username : adityanamdeoparit
+__________________________________________________
+PID : 641
+Name : assistantd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 642
+Name : PodcastsWidget
+Username : adityanamdeoparit
+__________________________________________________
+PID : 643
+Name : StocksWidget
+Username : adityanamdeoparit
+__________________________________________________
+PID : 644
+Name : siriknowledged
+Username : adityanamdeoparit
+__________________________________________________
+PID : 645
+Name : AssetCacheTether
+Username : root
+__________________________________________________
+PID : 646
+Name : ScreenTimeWidgetExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 647
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 648
+Name : postersyncd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 649
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 650
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 652
+Name : ScreenTimeWidgetIntentsExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 653
+Name : UniversalControl
+Username : adityanamdeoparit
+__________________________________________________
+PID : 654
+Name : HomeWidget
+Username : adityanamdeoparit
+__________________________________________________
+PID : 655
+Name : countryd
+Username : root
+__________________________________________________
+PID : 656
+Name : JournalWidgetsSecure
+Username : adityanamdeoparit
+__________________________________________________
+PID : 657
+Name : MobileTimerIntents
+Username : adityanamdeoparit
+__________________________________________________
+PID : 658
+Name : CategoriesService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 659
+Name : FindMyWidgetPeople
+Username : adityanamdeoparit
+__________________________________________________
+PID : 660
+Name : FindMyWidgetItems
+Username : adityanamdeoparit
+__________________________________________________
+PID : 661
+Name : WeatherIntents
+Username : adityanamdeoparit
+__________________________________________________
+PID : 662
+Name : CloudTelemetryService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 663
+Name : BatteriesAvocadoWidgetExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 664
+Name : VoiceMemosSettingsWidgetExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 665
+Name : HomeEnergyWidgetsExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 666
+Name : JournalWidgets
+Username : adityanamdeoparit
+__________________________________________________
+PID : 667
+Name : UARPAssetManager
+Username : _accessoryupdater
+__________________________________________________
+PID : 668
+Name : RecordWidgetExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 669
+Name : SetStoreUpdateService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 671
+Name : CallHistorySyncHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 672
+Name : financed
+Username : adityanamdeoparit
+__________________________________________________
+PID : 674
+Name : distnoted
+Username : _gamecontrollerd
+__________________________________________________
+PID : 675
+Name : gamecontrolleragentd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 676
+Name : com.apple.hiserv
+Username : root
+__________________________________________________
+PID : 677
+Name : ProtectedCloudKeySyncing
+Username : adityanamdeoparit
+__________________________________________________
+PID : 678
+Name : inputanalyticsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 680
+Name : assetsubscriptio
+Username : root
+__________________________________________________
+PID : 681
+Name : MauiAUSP
+Username : adityanamdeoparit
+__________________________________________________
+PID : 682
+Name : SiriAUSP
+Username : adityanamdeoparit
+__________________________________________________
+PID : 683
+Name : WardaSynthesizer
+Username : adityanamdeoparit
+__________________________________________________
+PID : 684
+Name : KonaSynthesizer
+Username : adityanamdeoparit
+__________________________________________________
+PID : 685
+Name : MacinTalkAUSP
+Username : adityanamdeoparit
+__________________________________________________
+PID : 686
+Name : CloudTelemetrySe
+Username : root
+__________________________________________________
+PID : 687
+Name : XProtectBridgeSe
+Username : root
+__________________________________________________
+PID : 688
+Name : appstoreagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 689
+Name : geodMachServiceBridge
+Username : adityanamdeoparit
+__________________________________________________
+PID : 690
+Name : installd
+Username : root
+__________________________________________________
+PID : 691
+Name : system_installd
+Username : root
+__________________________________________________
+PID : 692
+Name : analyticsagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 693
+Name : StocksKitService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 697
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 698
+Name : fairplayd
+Username : _fpsd
+__________________________________________________
+PID : 701
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 702
+Name : installcoordinat
+Username : _installcoordinationd
+__________________________________________________
+PID : 703
+Name : com.apple.Mobile
+Username : root
+__________________________________________________
+PID : 704
+Name : distnoted
+Username : _installcoordinationd
+__________________________________________________
+PID : 705
+Name : com.apple.AppSto
+Username : root
+__________________________________________________
+PID : 706
+Name : swcd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 707
+Name : amsondevicestoraged
+Username : adityanamdeoparit
+__________________________________________________
+PID : 709
+Name : SetStoreUpdateService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 710
+Name : AUCrashHandlerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 712
+Name : findmydevice-user-agent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 714
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 715
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 716
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 717
+Name : mapssyncd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 718
+Name : CrashReporterSup
+Username : root
+__________________________________________________
+PID : 719
+Name : mdbulkimport
+Username : adityanamdeoparit
+__________________________________________________
+PID : 720
+Name : SiriSuggestionsBookkeepingService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 722
+Name : intelligencecontextd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 724
+Name : SpeechSynthesisServerXPC
+Username : adityanamdeoparit
+__________________________________________________
+PID : 726
+Name : gamepolicyd
+Username : root
+__________________________________________________
+PID : 727
+Name : tailspind
+Username : root
+__________________________________________________
+PID : 728
+Name : ospredictiond
+Username : root
+__________________________________________________
+PID : 735
+Name : com.apple.CloudPhotosConfiguration
+Username : adityanamdeoparit
+__________________________________________________
+PID : 736
+Name : Keychain Circle Notification
+Username : adityanamdeoparit
+__________________________________________________
+PID : 739
+Name : dataaccessd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 740
+Name : progressd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 747
+Name : studentd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 748
+Name : peopled
+Username : adityanamdeoparit
+__________________________________________________
+PID : 749
+Name : proactived
+Username : adityanamdeoparit
+__________________________________________________
+PID : 754
+Name : IMTransferAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 755
+Name : ModelCatalogAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 756
+Name : AppPredictionIntentsHelperService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 758
+Name : ShortcutsViewService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 759
+Name : voicebankingd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 761
+Name : extensionkitservice
+Username : adityanamdeoparit
+__________________________________________________
+PID : 762
+Name : CalendarIntentsExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 763
+Name : SafariLinkExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 764
+Name : MessagesActionExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 790
+Name : SiriNCService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 791
+Name : remotemanagement
+Username : _rmd
+__________________________________________________
+PID : 792
+Name : fudHelperAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 793
+Name : SecuritySubscrib
+Username : _rmd
+__________________________________________________
+PID : 794
+Name : distnoted
+Username : _rmd
+__________________________________________________
+PID : 795
+Name : InteractiveLegac
+Username : _rmd
+__________________________________________________
+PID : 796
+Name : ScreenSharingSub
+Username : _rmd
+__________________________________________________
+PID : 797
+Name : tipsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 800
+Name : LegacyProfilesSu
+Username : _rmd
+__________________________________________________
+PID : 801
+Name : PasscodeSettings
+Username : _rmd
+__________________________________________________
+PID : 802
+Name : DiskManagementSu
+Username : _rmd
+__________________________________________________
+PID : 803
+Name : ManagedPreferenc
+Username : _rmd
+__________________________________________________
+PID : 804
+Name : SoftwareUpdateSu
+Username : _rmd
+__________________________________________________
+PID : 805
+Name : MigrationSubscri
+Username : _rmd
+__________________________________________________
+PID : 806
+Name : systemmigrationd
+Username : root
+__________________________________________________
+PID : 807
+Name : iconservicesagen
+Username : root
+__________________________________________________
+PID : 808
+Name : ManagedAppsSubsc
+Username : _rmd
+__________________________________________________
+PID : 809
+Name : managedappdistri
+Username : root
+__________________________________________________
+PID : 810
+Name : ManagementTestSu
+Username : _rmd
+__________________________________________________
+PID : 811
+Name : ManagedConfigura
+Username : _rmd
+__________________________________________________
+PID : 834
+Name : SafariLaunchAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 846
+Name : wifivelocityd
+Username : root
+__________________________________________________
+PID : 864
+Name : AppleSpell
+Username : adityanamdeoparit
+__________________________________________________
+PID : 865
+Name : naturallanguaged
+Username : adityanamdeoparit
+__________________________________________________
+PID : 866
+Name : keyboardservicesd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 867
+Name : contactsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 879
+Name : captiveagent
+Username : _captiveagent
+__________________________________________________
+PID : 881
+Name : SubmitDiagInfo
+Username : root
+__________________________________________________
+PID : 884
+Name : distnoted
+Username : _networkd
+__________________________________________________
+PID : 885
+Name : com.apple.geod
+Username : _networkd
+__________________________________________________
+PID : 886
+Name : secinitd
+Username : _networkd
+__________________________________________________
+PID : 887
+Name : cfprefsd
+Username : _networkd
+__________________________________________________
+PID : 888
+Name : trustd
+Username : _networkd
+__________________________________________________
+PID : 889
+Name : promotedcontentd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 890
+Name : containermanager
+Username : _networkd
+__________________________________________________
+PID : 891
+Name : fairplaydeviceid
+Username : _fpsd
+__________________________________________________
+PID : 897
+Name : AssetCacheLocato
+Username : _assetcache
+__________________________________________________
+PID : 899
+Name : ndoagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 900
+Name : devicecheckd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 901
+Name : SetStoreUpdateSe
+Username : root
+__________________________________________________
+PID : 905
+Name : trustd
+Username : _spotlight
+__________________________________________________
+PID : 907
+Name : mdworker
+Username : _spotlight
+__________________________________________________
+PID : 908
+Name : homeeventsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 909
+Name : adprivacyd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 910
+Name : assistant_service
+Username : adityanamdeoparit
+__________________________________________________
+PID : 911
+Name : online-auth-agen
+Username : root
+__________________________________________________
+PID : 912
+Name : weatherd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 913
+Name : managedappdistributionagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 914
+Name : keychainsharingmessagingd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 915
+Name : SafariBookmarksSyncAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 925
+Name : PasswordBreachAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 926
+Name : geoanalyticsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 932
+Name : contentlinkingd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 938
+Name : seputil
+Username : root
+__________________________________________________
+PID : 939
+Name : feedbackd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 956
+Name : mmaintenanced
+Username : root
+__________________________________________________
+PID : 965
+Name : filevaultd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 966
+Name : AuthenticationServicesAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 967
+Name : ASPCarryLog
+Username : root
+__________________________________________________
+PID : 971
+Name : powerdatad
+Username : root
+__________________________________________________
+PID : 974
+Name : PlugInLibraryService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 975
+Name : SAExtensionOrchestrator
+Username : adityanamdeoparit
+__________________________________________________
+PID : 976
+Name : extensionkitservice
+Username : adityanamdeoparit
+__________________________________________________
+PID : 979
+Name : com.apple.Safari.SafeBrowsing.Service
+Username : adityanamdeoparit
+__________________________________________________
+PID : 980
+Name : IFTelemetrySELFIngestor
+Username : adityanamdeoparit
+__________________________________________________
+PID : 981
+Name : IFTranscriptSELFIngestor
+Username : adityanamdeoparit
+__________________________________________________
+PID : 982
+Name : GMSSELFIngestor
+Username : adityanamdeoparit
+__________________________________________________
+PID : 985
+Name : spotlightknowledged
+Username : adityanamdeoparit
+__________________________________________________
+PID : 986
+Name : aneuserd
+Username : _neuralengine
+__________________________________________________
+PID : 1039
+Name : mlhostd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1040
+Name : intelligenceplatformd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1042
+Name : extensionkitservice
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1093
+Name : seserviced
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1168
+Name : CGPDFService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1175
+Name : textunderstandingd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1179
+Name : colorsync.useragent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1180
+Name : com.apple.ColorSyncXPCAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1181
+Name : SetStoreUpdateService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1201
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1202
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1205
+Name : com.apple.audio.
+Username : root
+__________________________________________________
+PID : 1224
+Name : managedcorespotlightd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1225
+Name : extensionkitservice
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1226
+Name : TextThumbnailExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1227
+Name : QuickLookSatellite
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1245
+Name : com.apple.DictionaryServiceHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1314
+Name : DockHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1320
+Name : AccessibilitySettingsWidgetExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1321
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1409
+Name : LinkedNotesUIService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1435
+Name : com.apple.geod
+Username : root
+__________________________________________________
+PID : 1436
+Name : containermanager
+Username : root
+__________________________________________________
+PID : 1458
+Name : com.apple.tonelibraryd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1490
+Name : MTLCompilerServi
+Username : root
+__________________________________________________
+PID : 1491
+Name : MTLCompilerServi
+Username : root
+__________________________________________________
+PID : 1499
+Name : Managed Background Assets Helper Service
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1500
+Name : XProtect
+Username : root
+__________________________________________________
+PID : 1501
+Name : metrickitd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1502
+Name : XProtect
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1517
+Name : com.apple.Stream
+Username : _nsurlsessiond
+__________________________________________________
+PID : 1522
+Name : coreautha
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1692
+Name : spindump
+Username : root
+__________________________________________________
+PID : 1993
+Name : IOUIAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1995
+Name : UserNotificationCenter
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1997
+Name : betaenrollmentagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 1998
+Name : betaenrollmentd
+Username : root
+__________________________________________________
+PID : 2012
+Name : stickersd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2017
+Name : ecosystemd
+Username : root
+__________________________________________________
+PID : 2018
+Name : GamePolicyAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2019
+Name : PlugInLibraryService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2057
+Name : XProtectUpdateSe
+Username : root
+__________________________________________________
+PID : 2072
+Name : tzd
+Username : root
+__________________________________________________
+PID : 2085
+Name : EscrowSecurityAlert
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2149
+Name : PlugInLibraryService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2151
+Name : XprotectService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2153
+Name : mdwrite
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2163
+Name : storekitagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2609
+Name : PowerChime
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2620
+Name : griddatad
+Username : root
+__________________________________________________
+PID : 2634
+Name : intelligencetasksd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2662
+Name : cfprefsd
+Username : _audiomxd
+__________________________________________________
+PID : 2663
+Name : cfprefsd
+Username : _nsurlsessiond
+__________________________________________________
+PID : 2664
+Name : cfprefsd
+Username : _softwareupdate
+__________________________________________________
+PID : 2668
+Name : cfprefsd
+Username : _applepay
+__________________________________________________
+PID : 2669
+Name : cfprefsd
+Username : _accessoryupdater
+__________________________________________________
+PID : 2679
+Name : ciphermld
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2680
+Name : businessservicesd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2681
+Name : RemoteManagementAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2682
+Name : com.apple.siri.embeddedspeech
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2683
+Name : MessagesBlastDoorService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2684
+Name : SafariConfigurationSubscriber
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2685
+Name : AppleIntelligenceReportingProcessingService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2687
+Name : SecuritySubscriber
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2688
+Name : InteractiveLegacyProfilesSubscriber
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2689
+Name : ScreenSharingSubscriber
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2693
+Name : LegacyProfilesSubscriber
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2694
+Name : PasscodeSettingsSubscriber
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2695
+Name : AccountSubscriber
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2696
+Name : ManagedAppsSubscriber
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2697
+Name : ManagementTestSubscriber
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2698
+Name : ASConfigurationSubscriber
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2699
+Name : ManagedSettingsSubscriber
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2700
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2710
+Name : cfprefsd
+Username : _rmd
+__________________________________________________
+PID : 2711
+Name : cfprefsd
+Username : _installcoordinationd
+__________________________________________________
+PID : 2713
+Name : SetStoreUpdateService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2714
+Name : backgroundassets.user
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2718
+Name : nbagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2721
+Name : nbstated
+Username : root
+__________________________________________________
+PID : 2724
+Name : proactiveeventtrackerd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2725
+Name : microstackshot
+Username : root
+__________________________________________________
+PID : 2726
+Name : dprivacyd
+Username : root
+__________________________________________________
+PID : 2727
+Name : dprivacyd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2737
+Name : AMPLibraryAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2738
+Name : AMPArtworkAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2740
+Name : com.apple.BKAgentService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2763
+Name : PlugInLibraryService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2801
+Name : sysdiagnosed
+Username : root
+__________________________________________________
+PID : 2808
+Name : MTLAssetUpgraderD
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2812
+Name : ANEStorageMainta
+Username : root
+__________________________________________________
+PID : 2815
+Name : media-indexer
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2816
+Name : ANEStorageMainta
+Username : _neuralengine
+__________________________________________________
+PID : 2817
+Name : distnoted
+Username : _neuralengine
+__________________________________________________
+PID : 2819
+Name : cfprefsd
+Username : _neuralengine
+__________________________________________________
+PID : 2820
+Name : PodcastContentService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2825
+Name : contactsdonationagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2826
+Name : mdsync
+Username : root
+__________________________________________________
+PID : 2827
+Name : avatarsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2828
+Name : CloudTelemetryService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2931
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2932
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2933
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2935
+Name : com.apple.audio.
+Username : root
+__________________________________________________
+PID : 2942
+Name : com.apple.Safari.History
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2944
+Name : SafariNotificationAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2945
+Name : webprivacyd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2947
+Name : passd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2948
+Name : CVMServer
+Username : root
+__________________________________________________
+PID : 2949
+Name : com.apple.accessibility.mediaaccessibilityd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2954
+Name : translationd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2962
+Name : TGOnDeviceInfere
+Username : _modelmanagerd
+__________________________________________________
+PID : 2963
+Name : distnoted
+Username : _modelmanagerd
+__________________________________________________
+PID : 2969
+Name : webpushd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 2972
+Name : reversetemplated
+Username : adityanamdeoparit
+__________________________________________________
+PID : 3000
+Name : nsattributedstri
+Username : _softwareupdate
+__________________________________________________
+PID : 3001
+Name : com.apple.hiserv
+Username : _softwareupdate
+__________________________________________________
+PID : 3005
+Name : com.apple.access
+Username : _softwareupdate
+__________________________________________________
+PID : 3006
+Name : nsattributedstringagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 3064
+Name : BiomeSELFIngestor
+Username : adityanamdeoparit
+__________________________________________________
+PID : 3173
+Name : cfprefsd
+Username : _modelmanagerd
+__________________________________________________
+PID : 3185
+Name : com.apple.geod
+Username : _accessoryupdater
+__________________________________________________
+PID : 3186
+Name : secinitd
+Username : _accessoryupdater
+__________________________________________________
+PID : 3187
+Name : trustd
+Username : _accessoryupdater
+__________________________________________________
+PID : 3188
+Name : containermanager
+Username : _accessoryupdater
+__________________________________________________
+PID : 3190
+Name : FPCKService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 3270
+Name : VTDecoderXPCService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 3273
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 3274
+Name : VTEncoderXPCService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 3275
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 3276
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 3316
+Name : mediaanalysisd-access
+Username : adityanamdeoparit
+__________________________________________________
+PID : 3394
+Name : XprotectService
+Username : root
+__________________________________________________
+PID : 3402
+Name : IMAutomaticHistoryDeletionAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 3694
+Name : WiFiCloudAssetsX
+Username : root
+__________________________________________________
+PID : 3703
+Name : VTDecoderXPCService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 3772
+Name : ImageThumbnailExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 3982
+Name : STExtractionServ
+Username : _nsurlsessiond
+__________________________________________________
+PID : 4206
+Name : SharingXPCHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 4212
+Name : CredentialProviderExtensionHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 4276
+Name : com.apple.StreamingUnzipService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 4277
+Name : MENotificationAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 4278
+Name : BackgroundTaskManagementAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 4355
+Name : lskdd
+Username : _fpsd
+__________________________________________________
+PID : 5328
+Name : AudiovisualThumbnailExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 5329
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 5331
+Name : VTDecoderXPCService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 5337
+Name : CSExattrCryptoService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 5465
+Name : mdworker
+Username : adityanamdeoparit
+__________________________________________________
+PID : 5655
+Name : facetimemessagestored
+Username : adityanamdeoparit
+__________________________________________________
+PID : 6324
+Name : PlugInLibraryService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 6325
+Name : com.apple.photos.ImageConversionService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 6326
+Name : VTDecoderXPCService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 6976
+Name : MessagesBlastDoorService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 7389
+Name : fskit_agent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 7399
+Name : DiskUnmountWatcher
+Username : adityanamdeoparit
+__________________________________________________
+PID : 8320
+Name : com.apple.StreamingUnzipService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 8333
+Name : installerauthagent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 8334
+Name : NRDUpdated
+Username : _softwareupdate
+__________________________________________________
+PID : 8336
+Name : com.apple.NRD.Up
+Username : root
+__________________________________________________
+PID : 8337
+Name : com.apple.Mobile
+Username : root
+__________________________________________________
+PID : 8349
+Name : EAUpdaterService
+Username : _accessoryupdater
+__________________________________________________
+PID : 8351
+Name : mds_stores
+Username : _mds_stores
+__________________________________________________
+PID : 8361
+Name : mbuseragent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 8362
+Name : GameControllerCo
+Username : _gamecontrollerd
+__________________________________________________
+PID : 8366
+Name : shazamd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 8401
+Name : pkd
+Username : _installcoordinationd
+__________________________________________________
+PID : 8412
+Name : appinstalld
+Username : _appinstalld
+__________________________________________________
+PID : 8414
+Name : distnoted
+Username : _appinstalld
+__________________________________________________
+PID : 8415
+Name : cfprefsd
+Username : _appinstalld
+__________________________________________________
+PID : 8419
+Name : com.apple.AppSto
+Username : root
+__________________________________________________
+PID : 8782
+Name : ThemeWidgetControlViewService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 8783
+Name : IDSBlastDoorService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 8798
+Name : PlugInLibraryService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 10727
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 11666
+Name : WorkflowServiceRunner
+Username : adityanamdeoparit
+__________________________________________________
+PID : 11667
+Name : com.apple.automator.runner
+Username : adityanamdeoparit
+__________________________________________________
+PID : 11668
+Name : XprotectService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 13904
+Name : com.apple.automator.runner
+Username : adityanamdeoparit
+__________________________________________________
+PID : 13905
+Name : XprotectService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 14202
+Name : remotepairingd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 14203
+Name : RemotePairingDat
+Username : _usbmuxd
+__________________________________________________
+PID : 14800
+Name : PhotosReliveWidget
+Username : adityanamdeoparit
+__________________________________________________
+PID : 16626
+Name : OfficeThumbnailExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 16627
+Name : WebThumbnailExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 16628
+Name : com.apple.WebKit.GPU
+Username : adityanamdeoparit
+__________________________________________________
+PID : 16631
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 16632
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 17625
+Name : com.apple.mail.SpotlightIndexExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 17629
+Name : com.apple.Notes.SpotlightIndexExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 17630
+Name : DataDetectorsSou
+Username : _datadetectors
+__________________________________________________
+PID : 17647
+Name : newsd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 17899
+Name : MessagesBlastDoorService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 17929
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 17930
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 18083
+Name : com.apple.automator.runner
+Username : adityanamdeoparit
+__________________________________________________
+PID : 18084
+Name : XprotectService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 18090
+Name : WallpaperLegacyExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 19398
+Name : com.apple.CharacterPicker.FileService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 20922
+Name : MessagesBlastDoorService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 21455
+Name : printtool
+Username : adityanamdeoparit
+__________________________________________________
+PID : 23864
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 25134
+Name : ShareSheetUI
+Username : adityanamdeoparit
+__________________________________________________
+PID : 25135
+Name : ShareMessages
+Username : adityanamdeoparit
+__________________________________________________
+PID : 25136
+Name : PlugInLibraryService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 25139
+Name : localspeechrecognition
+Username : adityanamdeoparit
+__________________________________________________
+PID : 25144
+Name : IMTranscoderAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 25145
+Name : textcomposerd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 25155
+Name : AirDrop
+Username : adityanamdeoparit
+__________________________________________________
+PID : 25156
+Name : QuickLookUIService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 25575
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 26390
+Name : ScreenshotControls
+Username : adityanamdeoparit
+__________________________________________________
+PID : 27750
+Name : IOUserBluetoothS
+Username : _driverkit
+__________________________________________________
+PID : 27779
+Name : com.apple.WebKit.Networking
+Username : adityanamdeoparit
+__________________________________________________
+PID : 27792
+Name : com.apple.SafariServices
+Username : adityanamdeoparit
+__________________________________________________
+PID : 30227
+Name : PackageThumbnailExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 30778
+Name : RemindersWidgetExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 30779
+Name : VTDecoderXPCService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 30780
+Name : PeopleWidget_macOSExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 30782
+Name : com.apple.Notes.WidgetExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 30783
+Name : SafariWidgetExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 30784
+Name : ShortcutsWidgetExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 30785
+Name : intents_helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 30786
+Name : TipsWidgetExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 31056
+Name : Terminal
+Username : adityanamdeoparit
+__________________________________________________
+PID : 31073
+Name : ThemeWidgetControlViewService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 31828
+Name : Notes
+Username : adityanamdeoparit
+__________________________________________________
+PID : 31829
+Name : localspeechrecognition
+Username : adityanamdeoparit
+__________________________________________________
+PID : 31830
+Name : com.apple.LinkPresentation.LinkSnapshotGeneratorService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 31831
+Name : GroupSessionService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 31945
+Name : WeatherWidget
+Username : adityanamdeoparit
+__________________________________________________
+PID : 31963
+Name : XProtectPluginService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 31964
+Name : XProtectPluginSe
+Username : root
+__________________________________________________
+PID : 32339
+Name : MTLCompilerServi
+Username : root
+__________________________________________________
+PID : 33148
+Name : IntelligencePlatformComputeService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34048
+Name : Google Chrome
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34050
+Name : chrome_crashpad_handler
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34054
+Name : Google Chrome Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34055
+Name : Google Chrome Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34056
+Name : Google Chrome Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34067
+Name : com.apple.SafariPlatformSupport.Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34085
+Name : Google Chrome Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34086
+Name : VTEncoderXPCService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34097
+Name : Google Chrome Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34098
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34128
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34129
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34130
+Name : com.apple.AuthenticationServices.Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34145
+Name : VTDecoderXPCService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34482
+Name : ServiceExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34483
+Name : intents_helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34586
+Name : rcd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34649
+Name : com.apple.appkit.xpc.openAndSavePanelService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34650
+Name : QuickLookUIService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34656
+Name : CSExattrCryptoService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34708
+Name : ThemeWidgetControlViewService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34733
+Name : PlugInLibraryService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 34928
+Name : PerfPowerService
+Username : root
+__________________________________________________
+PID : 35252
+Name : homeenergyd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35278
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35324
+Name : parsec-fbf
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35388
+Name : Code
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35391
+Name : chrome_crashpad_handler
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35392
+Name : Code Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35393
+Name : Code Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35409
+Name : Code Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35414
+Name : Code Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35452
+Name : Code Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35499
+Name : com.apple.appkit.xpc.openAndSavePanelService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35500
+Name : QuickLookUIService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35501
+Name : CSExattrCryptoService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35540
+Name : ThemeWidgetControlViewService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35579
+Name : QLPreviewGenerationExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35580
+Name : SpeechSynthesisServerXPC
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35743
+Name : Code Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35813
+Name : Google Chrome Helper (Renderer)
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35825
+Name : Code Helper (Renderer)
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35881
+Name : Google Chrome Helper (Renderer)
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35885
+Name : Google Chrome Helper (Renderer)
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35886
+Name : Google Chrome Helper (Alerts)
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35905
+Name : Code Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35906
+Name : Code Helper (Plugin)
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35908
+Name : pet
+Username : adityanamdeoparit
+__________________________________________________
+PID : 35949
+Name : zsh
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36112
+Name : Code Helper (Plugin)
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36258
+Name : Python
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36260
+Name : com.apple.SafariPlatformSupport.Helper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36342
+Name : System Settings
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36344
+Name : extensionkitservice
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36345
+Name : AppleIDSettings
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36346
+Name : Wi-Fi
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36349
+Name : FamilySettings
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36350
+Name : HeadphoneSettingsExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36351
+Name : FollowUpSettingsExtension
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36352
+Name : VPN
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36353
+Name : ClassroomSettings
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36356
+Name : Safari
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36357
+Name : ImageIOXPCService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36359
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36360
+Name : com.apple.Safari.SandboxBroker
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36361
+Name : com.apple.WebKit.Networking
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36362
+Name : com.apple.WebKit.GPU
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36363
+Name : com.apple.Safari.SearchHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36364
+Name : com.apple.audio.SandboxHelper
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36366
+Name : com.apple.appkit.xpc.openAndSavePanelService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36368
+Name : ImageIOXPCService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36369
+Name : QuickLookUIService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36379
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36380
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36391
+Name : MTLCompilerService
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36392
+Name : com.apple.WebKit.WebContent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 36395
+Name : netbiosd
+Username : _netbios
+__________________________________________________
+PID : 37105
+Name : remindd
+Username : adityanamdeoparit
+__________________________________________________
+PID : 37191
+Name : login
+Username : adityanamdeoparit
+__________________________________________________
+PID : 37192
+Name : zsh
+Username : adityanamdeoparit
+__________________________________________________
+PID : 37216
+Name : Google Chrome Helper (Renderer)
+Username : adityanamdeoparit
+__________________________________________________
+PID : 37255
+Name : Python
+Username : adityanamdeoparit
+__________________________________________________
+PID : 37261
+Name : mdworker_shared
+Username : adityanamdeoparit
+__________________________________________________
+PID : 37266
+Name : mdworker_shared
+Username : adityanamdeoparit
+__________________________________________________
+PID : 37272
+Name : AXVisualSupportAgent
+Username : adityanamdeoparit
+__________________________________________________
+PID : 37273
+Name : Google Chrome Helper (Renderer)
+Username : adityanamdeoparit
+__________________________________________________
+PID : 37274
+Name : mdworker_shared
+Username : adityanamdeoparit
+__________________________________________________
+PID : 37275
+Name : mdworker_shared
+Username : adityanamdeoparit
+__________________________________________________
+__________________________________________________
+-----------------End of File-----------------
+Time : Tue Jul 28 00:08:14 2026
+__________________________________________________

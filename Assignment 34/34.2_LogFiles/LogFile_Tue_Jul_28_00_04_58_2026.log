@@ -1,0 +1,1145 @@
+__________________________________________________
+-----------------Running Processes-----------------
+Time : Tue Jul 28 00:04:58 2026
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : com.apple.geod
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : secinitd
+status : running
+__________________________________________________
+Name : cfprefsd
+status : running
+__________________________________________________
+Name : trustd
+status : running
+__________________________________________________
+Name : containermanager
+status : running
+__________________________________________________
+Name : com.apple.geod
+status : running
+__________________________________________________
+Name : secinitd
+status : running
+__________________________________________________
+Name : cfprefsd
+status : running
+__________________________________________________
+Name : CategoriesServic
+status : running
+__________________________________________________
+Name : trustd
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : containermanager
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : ContextService
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : systemstats
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : cfprefsd
+status : running
+__________________________________________________
+Name : secd
+status : running
+__________________________________________________
+Name : TrustedPeersHelper
+status : running
+__________________________________________________
+Name : UserEventAgent
+status : running
+__________________________________________________
+Name : CoreServicesUIAgent
+status : running
+__________________________________________________
+Name : com.apple.sbd
+status : running
+__________________________________________________
+Name : universalaccessd
+status : running
+__________________________________________________
+Name : knowledge-agent
+status : running
+__________________________________________________
+Name : ContinuityCaptureAgent
+status : running
+__________________________________________________
+Name : pboard
+status : running
+__________________________________________________
+Name : imklaunchagent
+status : running
+__________________________________________________
+Name : lsd
+status : running
+__________________________________________________
+Name : pkd
+status : running
+__________________________________________________
+Name : containermanagerd
+status : running
+__________________________________________________
+Name : BiomeAgent
+status : running
+__________________________________________________
+Name : linkd
+status : running
+__________________________________________________
+Name : CommCenter
+status : running
+__________________________________________________
+Name : APFSUserAgent
+status : running
+__________________________________________________
+Name : mobilerepaird
+status : running
+__________________________________________________
+Name : nsurlsessiond
+status : running
+__________________________________________________
+Name : rapportd
+status : running
+__________________________________________________
+Name : routined
+status : running
+__________________________________________________
+Name : usernoted
+status : running
+__________________________________________________
+Name : AccessibilityVisualsAgent
+status : running
+__________________________________________________
+Name : lockoutagent
+status : running
+__________________________________________________
+Name : usernotificationsd
+status : running
+__________________________________________________
+Name : secinitd
+status : running
+__________________________________________________
+Name : talagentd
+status : running
+__________________________________________________
+Name : WindowManager
+status : running
+__________________________________________________
+Name : Dock
+status : running
+__________________________________________________
+Name : ControlCenter
+status : running
+__________________________________________________
+Name : SystemUIServer
+status : running
+__________________________________________________
+Name : Finder
+status : running
+__________________________________________________
+Name : AccessibilityUIServer
+status : running
+__________________________________________________
+Name : csnameddatad
+status : running
+__________________________________________________
+Name : corespotlightd
+status : running
+__________________________________________________
+Name : dmd
+status : running
+__________________________________________________
+Name : WallpaperAgent
+status : running
+__________________________________________________
+Name : com.apple.hiservices-xpcservice
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : ScreenTimeAgent
+status : running
+__________________________________________________
+Name : trustd
+status : running
+__________________________________________________
+Name : com.apple.quicklook.ThumbnailsAgent
+status : running
+__________________________________________________
+Name : CoreLocationAgent
+status : running
+__________________________________________________
+Name : siriactionsd
+status : running
+__________________________________________________
+Name : ContextStoreAgent
+status : running
+__________________________________________________
+Name : callservicesd
+status : running
+__________________________________________________
+Name : tccd
+status : running
+__________________________________________________
+Name : sociallayerd
+status : running
+__________________________________________________
+Name : suggestd
+status : running
+__________________________________________________
+Name : calaccessd
+status : running
+__________________________________________________
+Name : sharedfilelistd
+status : running
+__________________________________________________
+Name : fileproviderd
+status : running
+__________________________________________________
+Name : AMPDeviceDiscoveryAgent
+status : running
+__________________________________________________
+Name : bird
+status : running
+__________________________________________________
+Name : ViewBridgeAuxiliary
+status : running
+__________________________________________________
+Name : fontd
+status : running
+__________________________________________________
+Name : syncdefaultsd
+status : running
+__________________________________________________
+Name : identityservicesd
+status : running
+__________________________________________________
+Name : iconservicesagent
+status : running
+__________________________________________________
+Name : intelligentroutingd
+status : running
+__________________________________________________
+Name : audioaccessoryd
+status : running
+__________________________________________________
+Name : accountsd
+status : running
+__________________________________________________
+Name : mobiletimerd
+status : running
+__________________________________________________
+Name : replayd
+status : running
+__________________________________________________
+Name : AudioComponentRegistrar
+status : running
+__________________________________________________
+Name : com.apple.geod
+status : running
+__________________________________________________
+Name : chronod
+status : running
+__________________________________________________
+Name : fontworker
+status : running
+__________________________________________________
+Name : deleted
+status : running
+__________________________________________________
+Name : assessmentagent
+status : running
+__________________________________________________
+Name : donotdisturbd
+status : running
+__________________________________________________
+Name : ScopedBookmarkAgent
+status : running
+__________________________________________________
+Name : WiFiAgent
+status : running
+__________________________________________________
+Name : communicationtrustd
+status : running
+__________________________________________________
+Name : localizationswitcherd
+status : running
+__________________________________________________
+Name : cloudd
+status : running
+__________________________________________________
+Name : findmylocateagent
+status : running
+__________________________________________________
+Name : CMFSyncAgent
+status : running
+__________________________________________________
+Name : transparencyd
+status : running
+__________________________________________________
+Name : liveactivitiesd
+status : running
+__________________________________________________
+Name : ctkd
+status : running
+__________________________________________________
+Name : replicatord
+status : running
+__________________________________________________
+Name : coreauthd
+status : running
+__________________________________________________
+Name : imagent
+status : running
+__________________________________________________
+Name : sharingd
+status : running
+__________________________________________________
+Name : NotificationCenter
+status : running
+__________________________________________________
+Name : useractivityd
+status : running
+__________________________________________________
+Name : heard
+status : running
+__________________________________________________
+Name : corespeechd
+status : running
+__________________________________________________
+Name : axassetsd
+status : running
+__________________________________________________
+Name : Siri
+status : running
+__________________________________________________
+Name : icdd
+status : running
+__________________________________________________
+Name : appplaceholdersyncd
+status : running
+__________________________________________________
+Name : askpermissiond
+status : running
+__________________________________________________
+Name : ManagedSettingsAgent
+status : running
+__________________________________________________
+Name : AirPlayUIAgent
+status : running
+__________________________________________________
+Name : diagnostics_agent
+status : running
+__________________________________________________
+Name : TextInputMenuAgent
+status : running
+__________________________________________________
+Name : amsaccountsd
+status : running
+__________________________________________________
+Name : ctkahp
+status : running
+__________________________________________________
+Name : SoftwareUpdateNotificationManager
+status : running
+__________________________________________________
+Name : pbs
+status : running
+__________________________________________________
+Name : Spotlight
+status : running
+__________________________________________________
+Name : followupd
+status : running
+__________________________________________________
+Name : TextInputSwitcher
+status : running
+__________________________________________________
+Name : CallHistoryPluginHelper
+status : running
+__________________________________________________
+Name : ReportCrash
+status : running
+__________________________________________________
+Name : parsecd
+status : running
+__________________________________________________
+Name : FamilyControlsAgent
+status : running
+__________________________________________________
+Name : spotlightknowledged.updater
+status : running
+__________________________________________________
+Name : StatusKitAgent
+status : running
+__________________________________________________
+Name : CursorUIViewService
+status : running
+__________________________________________________
+Name : familycircled
+status : running
+__________________________________________________
+Name : duetexpertd
+status : running
+__________________________________________________
+Name : UIKitSystem
+status : running
+__________________________________________________
+Name : photolibraryd
+status : running
+__________________________________________________
+Name : neagent
+status : running
+__________________________________________________
+Name : assistant_cdmd
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : itunescloudd
+status : running
+__________________________________________________
+Name : containermanager
+status : running
+__________________________________________________
+Name : networkserviceproxy
+status : running
+__________________________________________________
+Name : triald
+status : running
+__________________________________________________
+Name : akd
+status : running
+__________________________________________________
+Name : milod
+status : running
+__________________________________________________
+Name : sirittsd
+status : running
+__________________________________________________
+Name : homed
+status : running
+__________________________________________________
+Name : AppSSOAgent
+status : running
+__________________________________________________
+Name : mediaremoteagent
+status : running
+__________________________________________________
+Name : avconferenced
+status : running
+__________________________________________________
+Name : commerce
+status : running
+__________________________________________________
+Name : generativeexperiencesd
+status : running
+__________________________________________________
+Name : iCloudNotificationAgent
+status : running
+__________________________________________________
+Name : appleaccountd
+status : running
+__________________________________________________
+Name : diagnosticextensionsd
+status : running
+__________________________________________________
+Name : searchpartyuseragent
+status : running
+__________________________________________________
+Name : jetpackassetd
+status : running
+__________________________________________________
+Name : mediaanalysisd
+status : running
+__________________________________________________
+Name : cdpd
+status : running
+__________________________________________________
+Name : IMDPersistenceAgent
+status : running
+__________________________________________________
+Name : amsengagementd
+status : running
+__________________________________________________
+Name : frauddefensed
+status : running
+__________________________________________________
+Name : maild
+status : running
+__________________________________________________
+Name : photoanalysisd
+status : running
+__________________________________________________
+Name : swtransparencyd
+status : running
+__________________________________________________
+Name : cloudphotod
+status : running
+__________________________________________________
+Name : SidecarRelay
+status : running
+__________________________________________________
+Name : siriinferenced
+status : running
+__________________________________________________
+Name : AssetCacheLocatorService
+status : running
+__________________________________________________
+Name : ContextService
+status : running
+__________________________________________________
+Name : FeatureAccessAgent
+status : running
+__________________________________________________
+Name : recentsd
+status : running
+__________________________________________________
+Name : lockdownmoded
+status : running
+__________________________________________________
+Name : BTLEServerAgent
+status : running
+__________________________________________________
+Name : bluetoothuserd
+status : running
+__________________________________________________
+Name : UsageTrackingAgent
+status : running
+__________________________________________________
+Name : CoreThreadCommissionerServiced
+status : running
+__________________________________________________
+Name : assistantd
+status : running
+__________________________________________________
+Name : siriknowledged
+status : running
+__________________________________________________
+Name : postersyncd
+status : running
+__________________________________________________
+Name : UniversalControl
+status : running
+__________________________________________________
+Name : CategoriesService
+status : running
+__________________________________________________
+Name : CallHistorySyncHelper
+status : running
+__________________________________________________
+Name : financed
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : gamecontrolleragentd
+status : running
+__________________________________________________
+Name : com.apple.hiserv
+status : running
+__________________________________________________
+Name : ProtectedCloudKeySyncing
+status : running
+__________________________________________________
+Name : inputanalyticsd
+status : running
+__________________________________________________
+Name : appstoreagent
+status : running
+__________________________________________________
+Name : geodMachServiceBridge
+status : running
+__________________________________________________
+Name : analyticsagent
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : swcd
+status : running
+__________________________________________________
+Name : amsondevicestoraged
+status : running
+__________________________________________________
+Name : findmydevice-user-agent
+status : running
+__________________________________________________
+Name : mapssyncd
+status : running
+__________________________________________________
+Name : mdbulkimport
+status : running
+__________________________________________________
+Name : intelligencecontextd
+status : running
+__________________________________________________
+Name : com.apple.CloudPhotosConfiguration
+status : running
+__________________________________________________
+Name : Keychain Circle Notification
+status : running
+__________________________________________________
+Name : dataaccessd
+status : running
+__________________________________________________
+Name : progressd
+status : running
+__________________________________________________
+Name : studentd
+status : running
+__________________________________________________
+Name : peopled
+status : running
+__________________________________________________
+Name : proactived
+status : running
+__________________________________________________
+Name : IMTransferAgent
+status : running
+__________________________________________________
+Name : ModelCatalogAgent
+status : running
+__________________________________________________
+Name : ShortcutsViewService
+status : running
+__________________________________________________
+Name : voicebankingd
+status : running
+__________________________________________________
+Name : fudHelperAgent
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : tipsd
+status : running
+__________________________________________________
+Name : SafariLaunchAgent
+status : running
+__________________________________________________
+Name : AppleSpell
+status : running
+__________________________________________________
+Name : naturallanguaged
+status : running
+__________________________________________________
+Name : keyboardservicesd
+status : running
+__________________________________________________
+Name : contactsd
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : com.apple.geod
+status : running
+__________________________________________________
+Name : secinitd
+status : running
+__________________________________________________
+Name : cfprefsd
+status : running
+__________________________________________________
+Name : trustd
+status : running
+__________________________________________________
+Name : promotedcontentd
+status : running
+__________________________________________________
+Name : containermanager
+status : running
+__________________________________________________
+Name : ndoagent
+status : running
+__________________________________________________
+Name : devicecheckd
+status : running
+__________________________________________________
+Name : trustd
+status : running
+__________________________________________________
+Name : mdworker
+status : running
+__________________________________________________
+Name : homeeventsd
+status : running
+__________________________________________________
+Name : adprivacyd
+status : running
+__________________________________________________
+Name : assistant_service
+status : running
+__________________________________________________
+Name : weatherd
+status : running
+__________________________________________________
+Name : managedappdistributionagent
+status : running
+__________________________________________________
+Name : keychainsharingmessagingd
+status : running
+__________________________________________________
+Name : SafariBookmarksSyncAgent
+status : running
+__________________________________________________
+Name : PasswordBreachAgent
+status : running
+__________________________________________________
+Name : geoanalyticsd
+status : running
+__________________________________________________
+Name : contentlinkingd
+status : running
+__________________________________________________
+Name : feedbackd
+status : running
+__________________________________________________
+Name : filevaultd
+status : running
+__________________________________________________
+Name : AuthenticationServicesAgent
+status : running
+__________________________________________________
+Name : com.apple.Safari.SafeBrowsing.Service
+status : running
+__________________________________________________
+Name : spotlightknowledged
+status : running
+__________________________________________________
+Name : mlhostd
+status : running
+__________________________________________________
+Name : intelligenceplatformd
+status : running
+__________________________________________________
+Name : seserviced
+status : running
+__________________________________________________
+Name : textunderstandingd
+status : running
+__________________________________________________
+Name : colorsync.useragent
+status : running
+__________________________________________________
+Name : managedcorespotlightd
+status : running
+__________________________________________________
+Name : com.apple.DictionaryServiceHelper
+status : running
+__________________________________________________
+Name : LinkedNotesUIService
+status : running
+__________________________________________________
+Name : com.apple.geod
+status : running
+__________________________________________________
+Name : containermanager
+status : running
+__________________________________________________
+Name : com.apple.tonelibraryd
+status : running
+__________________________________________________
+Name : metrickitd
+status : running
+__________________________________________________
+Name : XProtect
+status : running
+__________________________________________________
+Name : coreautha
+status : running
+__________________________________________________
+Name : IOUIAgent
+status : running
+__________________________________________________
+Name : UserNotificationCenter
+status : running
+__________________________________________________
+Name : betaenrollmentagent
+status : running
+__________________________________________________
+Name : stickersd
+status : running
+__________________________________________________
+Name : GamePolicyAgent
+status : running
+__________________________________________________
+Name : EscrowSecurityAlert
+status : running
+__________________________________________________
+Name : mdwrite
+status : running
+__________________________________________________
+Name : storekitagent
+status : running
+__________________________________________________
+Name : PowerChime
+status : running
+__________________________________________________
+Name : intelligencetasksd
+status : running
+__________________________________________________
+Name : cfprefsd
+status : running
+__________________________________________________
+Name : cfprefsd
+status : running
+__________________________________________________
+Name : cfprefsd
+status : running
+__________________________________________________
+Name : cfprefsd
+status : running
+__________________________________________________
+Name : cfprefsd
+status : running
+__________________________________________________
+Name : ciphermld
+status : running
+__________________________________________________
+Name : businessservicesd
+status : running
+__________________________________________________
+Name : RemoteManagementAgent
+status : running
+__________________________________________________
+Name : cfprefsd
+status : running
+__________________________________________________
+Name : cfprefsd
+status : running
+__________________________________________________
+Name : backgroundassets.user
+status : running
+__________________________________________________
+Name : nbagent
+status : running
+__________________________________________________
+Name : proactiveeventtrackerd
+status : running
+__________________________________________________
+Name : dprivacyd
+status : running
+__________________________________________________
+Name : AMPLibraryAgent
+status : running
+__________________________________________________
+Name : AMPArtworkAgent
+status : running
+__________________________________________________
+Name : com.apple.BKAgentService
+status : running
+__________________________________________________
+Name : MTLAssetUpgraderD
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : cfprefsd
+status : running
+__________________________________________________
+Name : PodcastContentService
+status : running
+__________________________________________________
+Name : contactsdonationagent
+status : running
+__________________________________________________
+Name : avatarsd
+status : running
+__________________________________________________
+Name : com.apple.Safari.History
+status : running
+__________________________________________________
+Name : SafariNotificationAgent
+status : running
+__________________________________________________
+Name : webprivacyd
+status : running
+__________________________________________________
+Name : passd
+status : running
+__________________________________________________
+Name : com.apple.accessibility.mediaaccessibilityd
+status : running
+__________________________________________________
+Name : translationd
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : webpushd
+status : running
+__________________________________________________
+Name : reversetemplated
+status : running
+__________________________________________________
+Name : com.apple.hiserv
+status : running
+__________________________________________________
+Name : com.apple.access
+status : running
+__________________________________________________
+Name : cfprefsd
+status : running
+__________________________________________________
+Name : com.apple.geod
+status : running
+__________________________________________________
+Name : secinitd
+status : running
+__________________________________________________
+Name : trustd
+status : running
+__________________________________________________
+Name : containermanager
+status : running
+__________________________________________________
+Name : IMAutomaticHistoryDeletionAgent
+status : running
+__________________________________________________
+Name : MENotificationAgent
+status : running
+__________________________________________________
+Name : BackgroundTaskManagementAgent
+status : running
+__________________________________________________
+Name : mdworker
+status : running
+__________________________________________________
+Name : facetimemessagestored
+status : running
+__________________________________________________
+Name : fskit_agent
+status : running
+__________________________________________________
+Name : DiskUnmountWatcher
+status : running
+__________________________________________________
+Name : installerauthagent
+status : running
+__________________________________________________
+Name : mbuseragent
+status : running
+__________________________________________________
+Name : GameControllerCo
+status : running
+__________________________________________________
+Name : shazamd
+status : running
+__________________________________________________
+Name : pkd
+status : running
+__________________________________________________
+Name : distnoted
+status : running
+__________________________________________________
+Name : cfprefsd
+status : running
+__________________________________________________
+Name : remotepairingd
+status : running
+__________________________________________________
+Name : newsd
+status : running
+__________________________________________________
+Name : com.apple.CharacterPicker.FileService
+status : running
+__________________________________________________
+Name : printtool
+status : running
+__________________________________________________
+Name : textcomposerd
+status : running
+__________________________________________________
+Name : Terminal
+status : running
+__________________________________________________
+Name : Notes
+status : running
+__________________________________________________
+Name : XProtectPluginService
+status : running
+__________________________________________________
+Name : Google Chrome
+status : running
+__________________________________________________
+Name : chrome_crashpad_handler
+status : running
+__________________________________________________
+Name : Google Chrome Helper
+status : running
+__________________________________________________
+Name : Google Chrome Helper
+status : running
+__________________________________________________
+Name : Google Chrome Helper
+status : running
+__________________________________________________
+Name : Google Chrome Helper
+status : running
+__________________________________________________
+Name : Google Chrome Helper
+status : running
+__________________________________________________
+Name : rcd
+status : running
+__________________________________________________
+Name : homeenergyd
+status : running
+__________________________________________________
+Name : parsec-fbf
+status : running
+__________________________________________________
+Name : Code
+status : running
+__________________________________________________
+Name : chrome_crashpad_handler
+status : running
+__________________________________________________
+Name : Code Helper
+status : running
+__________________________________________________
+Name : Code Helper
+status : running
+__________________________________________________
+Name : Code Helper
+status : running
+__________________________________________________
+Name : Code Helper
+status : running
+__________________________________________________
+Name : Code Helper
+status : running
+__________________________________________________
+Name : Code Helper
+status : running
+__________________________________________________
+Name : Google Chrome Helper (Renderer)
+status : running
+__________________________________________________
+Name : Code Helper (Renderer)
+status : running
+__________________________________________________
+Name : Google Chrome Helper (Renderer)
+status : running
+__________________________________________________
+Name : Google Chrome Helper (Renderer)
+status : running
+__________________________________________________
+Name : Google Chrome Helper (Alerts)
+status : running
+__________________________________________________
+Name : Code Helper
+status : running
+__________________________________________________
+Name : Code Helper (Plugin)
+status : running
+__________________________________________________
+Name : pet
+status : running
+__________________________________________________
+Name : Code Helper (Plugin)
+status : running
+__________________________________________________
+Name : zsh
+status : running
+__________________________________________________
+Name : Python
+status : running
+__________________________________________________
+Name : System Settings
+status : running
+__________________________________________________
+Name : Safari
+status : running
+__________________________________________________
+Name : remindd
+status : running
+__________________________________________________
+Name : mdworker_shared
+status : running
+__________________________________________________
+Name : mdworker_shared
+status : running
+__________________________________________________
+Name : Python
+status : running
+__________________________________________________
+Name : zsh
+status : running
+__________________________________________________
+Name : Google Chrome Helper (Renderer)
+status : running
+__________________________________________________
+Name : Python
+status : running
+__________________________________________________
+Name : Google Chrome Helper (Renderer)
+status : running
+__________________________________________________
+Name : Google Chrome Helper (Renderer)
+status : running
+__________________________________________________
+Name : Google Chrome Helper (Renderer)
+status : running
+__________________________________________________
+Name : AXVisualSupportAgent
+status : running
+__________________________________________________
+Name : mdworker_shared
+status : running
+__________________________________________________
+Name : mdworker_shared
+status : running
+__________________________________________________
+__________________________________________________
+-----------------End of File-----------------
+Time : Tue Jul 28 00:04:58 2026
+__________________________________________________
