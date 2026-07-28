@@ -2,22 +2,22 @@
           ADITYA NAMDEO PARIT
      PLATFORM SURVEILLANCE REPORT
 ======================================================================
-Generated On : Tue Jul 28 01:15:15 2026
+Generated On : Tue Jul 28 10:20:37 2026
 ======================================================================
 
 [ SYSTEM INFORMATION ]
 ----------------------------------------------------------------------
 CPU Cores          : 10
-CPU Usage          : 2.80 %
-RAM Usage          : 57.90 %
+CPU Usage          : 0.90 %
+RAM Usage          : 57.30 %
 Total RAM          : 24.00 GB
-Available RAM      : 10.11 GB
+Available RAM      : 10.25 GB
 ----------------------------------------------------------------------
 
 [ NETWORK INFORMATION ]
 ----------------------------------------------------------------------
-Data Sent          : 1269.10 MB
-Data Received      : 2354.83 MB
+Data Sent          : 1287.95 MB
+Data Received      : 2466.04 MB
 ----------------------------------------------------------------------
 
 [ RUNNING PROCESS LIST ]
@@ -1719,11 +1719,6 @@ Data Received      : 2354.83 MB
     ------------------------------------------------------------------------------------------
     
     PID        : 581
-    Process    : IOUserBluetoothS
-    User       : _driverkit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 582
     Process    : IOUserBluetoothS
     User       : _driverkit
     ------------------------------------------------------------------------------------------
@@ -4093,11 +4088,6 @@ Data Received      : 2354.83 MB
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 35324
-    Process    : parsec-fbf
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
     PID        : 35388
     Process    : Code
     User       : adityanamdeoparit
@@ -4165,111 +4155,6 @@ Data Received      : 2354.83 MB
     
     PID        : 35743
     Process    : Code Helper
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 35813
-    Process    : Google Chrome Helper (Renderer)
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 35825
-    Process    : Code Helper (Renderer)
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 35881
-    Process    : Google Chrome Helper (Renderer)
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 35885
-    Process    : Google Chrome Helper (Renderer)
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 35886
-    Process    : Google Chrome Helper (Alerts)
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 35905
-    Process    : Code Helper
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 35906
-    Process    : Code Helper (Plugin)
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 35908
-    Process    : pet
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 35949
-    Process    : zsh
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 36112
-    Process    : Code Helper (Plugin)
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 36258
-    Process    : Python
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 36260
-    Process    : com.apple.SafariPlatformSupport.Helper
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 36342
-    Process    : System Settings
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 36344
-    Process    : extensionkitservice
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 36345
-    Process    : AppleIDSettings
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 36346
-    Process    : Wi-Fi
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 36349
-    Process    : FamilySettings
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 36350
-    Process    : HeadphoneSettingsExtension
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 36351
-    Process    : FollowUpSettingsExtension
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 36352
-    Process    : VPN
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 36353
-    Process    : ClassroomSettings
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
@@ -4348,26 +4233,6 @@ Data Received      : 2354.83 MB
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 36395
-    Process    : netbiosd
-    User       : _netbios
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 37105
-    Process    : remindd
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 37191
-    Process    : login
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 37192
-    Process    : zsh
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
     PID        : 37323
     Process    : Preview
     User       : adityanamdeoparit
@@ -4408,77 +4273,167 @@ Data Received      : 2354.83 MB
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 37537
+    PID        : 37994
+    Process    : com.apple.iCloudHelper
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38116
     Process    : Google Chrome Helper (Renderer)
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 37754
+    PID        : 38128
     Process    : Google Chrome Helper (Renderer)
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 37768
+    PID        : 38131
+    Process    : Calendar
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38132
+    Process    : com.apple.CalendarWeatherKitService
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38221
     Process    : Google Chrome Helper (Renderer)
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 37779
+    PID        : 38224
     Process    : Google Chrome Helper (Renderer)
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 37798
-    Process    : iPhone Mirroring
-    User       : adityanamdeoparit
+    PID        : 38243
+    Process    : netbiosd
+    User       : _netbios
     ------------------------------------------------------------------------------------------
     
-    PID        : 37799
-    Process    : LocalAuthenticationRemoteService
-    User       : adityanamdeoparit
-    ------------------------------------------------------------------------------------------
-    
-    PID        : 37800
+    PID        : 38257
     Process    : Google Chrome Helper (Renderer)
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 37872
-    Process    : mdworker_shared
+    PID        : 38279
+    Process    : IOUserBluetoothS
+    User       : _driverkit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38284
+    Process    : remindd
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 37960
+    PID        : 38292
     Process    : Google Chrome Helper (Renderer)
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 37969
-    Process    : mdworker_shared
+    PID        : 38297
+    Process    : Code Helper (Renderer)
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 37970
+    PID        : 38351
+    Process    : Code Helper
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38352
+    Process    : Code Helper (Plugin)
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38418
+    Process    : pet
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38458
+    Process    : zsh
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38562
+    Process    : Code Helper (Plugin)
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38622
+    Process    : login
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38623
+    Process    : zsh
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38660
+    Process    : Google Chrome Helper (Renderer)
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38663
+    Process    : Google Chrome Helper (Renderer)
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38673
+    Process    : Google Chrome Helper (Renderer)
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38674
+    Process    : Google Chrome Helper (Renderer)
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38675
+    Process    : Google Chrome Helper (Renderer)
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38676
+    Process    : Google Chrome Helper (Renderer)
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38677
     Process    : AXVisualSupportAgent
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 37971
+    PID        : 38678
+    Process    : Google Chrome Helper (Renderer)
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38682
     Process    : mdworker_shared
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 37972
-    Process    : Google Chrome Helper (Renderer)
+    PID        : 38688
+    Process    : biomesyncd
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 37973
-    Process    : Google Chrome Helper (Renderer)
+    PID        : 38690
+    Process    : mdworker_shared
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
     
-    PID        : 37974
+    PID        : 38691
+    Process    : mdworker_shared
+    User       : adityanamdeoparit
+    ------------------------------------------------------------------------------------------
+    
+    PID        : 38694
     Process    : Python
     User       : adityanamdeoparit
     ------------------------------------------------------------------------------------------
@@ -4486,11 +4441,11 @@ Data Received      : 2354.83 MB
 ======================================================================
 REPORT SUMMARY
 ======================================================================
-Total Running Processes : 0
-CPU Usage               : 2.80 %
-RAM Usage               : 57.90 %
-Execution Time          : 0.06 Seconds
-Report Generated On     : Tue Jul 28 01:15:15 2026
+Total Running Processes : 883
+CPU Usage               : 0.90 %
+RAM Usage               : 57.30 %
+Execution Time          : 0.05 Seconds
+Report Generated On     : Tue Jul 28 10:20:37 2026
 ======================================================================
 End of Report
 ======================================================================

@@ -1,3 +1,28 @@
+############################################################
+#
+# Program Name  : Platform Surveillance Automation
+#
+# Description   : This application periodically monitors
+#                 the system by collecting CPU, RAM,
+#                 Network and Running Process information.
+#                 A detailed log file is generated and
+#                 automatically emailed to the specified
+#                 recipient along with the log attachment.
+#
+# Technologies  : Python, psutil, smtplib, schedule
+#
+# Author        : Aditya Namdeo Parit
+# Date          : 28/07/2026
+#
+############################################################
+
+
+############################################################
+#
+#                   IMPORT REQUIRED MODULES
+#
+############################################################
+
 import os 
 import time
 import psutil
@@ -5,46 +30,192 @@ import sys
 import smtplib
 from email.message import EmailMessage
 import mimetypes
+import schedule
+
+
+############################################################
+#
+# Function Name : BodyMaker
+# Description   : Creates the HTML email body containing
+#                 the system monitoring report.
+# Input         : TimeTaken, Pcount, CPU_Usage,
+#                 RAM_Usage, RAM_Available
+# Output        : Returns HTML formatted email body.
+# Author        : Aditya Namdeo Parit
+# Date          : 28/07/2026
+#
+############################################################
 
 def BodyMaker(TimeTaken, Pcount, CPU_Usage, RAM_Usage, RAM_Available):
 
     Body = f"""
-============================================================
-                ADITYA NAMDEO PARIT
-      PLATFORM SURVEILLANCE AUTOMATION REPORT
-============================================================
+<!DOCTYPE html>
+<html>
 
-Jay Ganesh,
+<head>
+<style>
 
-The system monitoring process has completed successfully.
+body {{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f9;
+    color: #333333;
+}}
 
--------------------- SYSTEM SUMMARY --------------------
+.container {{
+    width: 700px;
+    margin: auto;
+    background: white;
+    border-radius: 10px;
+    border: 1px solid #dcdcdc;
+    overflow: hidden;
+}}
 
-CPU Usage               : {CPU_Usage:.2f} %
-RAM Usage               : {RAM_Usage:.2f} %
-Available RAM           : {RAM_Available/(1024**3):.2f} GB
-Running Processes       : {Pcount}
-Execution Time          : {TimeTaken:.2f} Seconds
+.header {{
+    background-color: #0d6efd;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}}
 
---------------------------------------------------------
+.header h1 {{
+    margin: 0;
+}}
 
-Status                  : SUCCESS
-Log File                : Attached
+.content {{
+    padding: 25px;
+}}
 
-============================================================
-This is an automatically generated email.
+table {{
+    width: 100%;
+    border-collapse: collapse;
+}}
+
+th {{
+    background-color: #0d6efd;
+    color: white;
+    padding: 10px;
+}}
+
+td {{
+    padding: 10px;
+    border-bottom: 1px solid #dddddd;
+}}
+
+.status {{
+    color: green;
+    font-weight: bold;
+}}
+
+.footer {{
+    text-align: center;
+    padding: 15px;
+    background: #f0f0f0;
+    font-size: 13px;
+}}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="header">
+<h1>Platform Surveillance Automation</h1>
+<h3>Aditya Namdeo Parit</h3>
+</div>
+
+<div class="content">
+
+<p><b>Jay Ganesh,</b></p>
+
+<p>
+The Platform Surveillance Automation has completed successfully.
+Please find the system summary below.
+</p>
+
+<table>
+
+<tr>
+<th>Parameter</th>
+<th>Value</th>
+</tr>
+
+<tr>
+<td>CPU Usage</td>
+<td>{CPU_Usage:.2f}%</td>
+</tr>
+
+<tr>
+<td>RAM Usage</td>
+<td>{RAM_Usage:.2f}%</td>
+</tr>
+
+<tr>
+<td>Available RAM</td>
+<td>{RAM_Available/(1024**3):.2f} GB</td>
+</tr>
+
+<tr>
+<td>Running Processes</td>
+<td>{Pcount}</td>
+</tr>
+
+<tr>
+<td>Execution Time</td>
+<td>{TimeTaken:.2f} Seconds</td>
+</tr>
+
+<tr>
+<td>Status</td>
+<td class="status">SUCCESS</td>
+</tr>
+
+<tr>
+<td>Log File</td>
+<td>Attached</td>
+</tr>
+
+</table>
+
+</div>
+
+<div class="footer">
+
+<b>This is an automatically generated email.</b><br>
 Please do not reply.
 
-Regards,
-Platform Surveillance Automation
+<br><br>
+
+Regards,<br>
+<b>Platform Surveillance Automation</b><br>
 Aditya Namdeo Parit
-============================================================
+
+</div>
+
+</div>
+
+</body>
+</html>
 """
 
     return Body
 
 
-
+############################################################
+#
+# Function Name : send_email
+# Description   : Sends an HTML email with the generated
+#                 system report and attaches the log file.
+# Input         : Sender Email, App Password,
+#                 Receiver Email, Subject,
+#                 HTML Body, Attachment Path
+# Output        : Sends email successfully or displays
+#                 an authentication error.
+# Author        : Aditya Namdeo Parit
+# Date          : 28/07/2026
+#
+############################################################
 def send_email(sender,app_password,reciever,subject,Body,AttachmentPath):
     msg = EmailMessage()
 
@@ -52,7 +223,10 @@ def send_email(sender,app_password,reciever,subject,Body,AttachmentPath):
     msg["To"] = reciever
     msg["Subject"] = subject
 
-    msg.set_content(Body)
+    msg.set_content("Your email client does not support HTML emails.")
+    msg.add_alternative(Body, subtype="html")
+
+
     with open(AttachmentPath, "rb") as f:
         file_data = f.read()
 
@@ -81,7 +255,17 @@ def send_email(sender,app_password,reciever,subject,Body,AttachmentPath):
 
 
 
-
+############################################################
+#
+# Function Name : DirectoryMaker
+# Description   : Checks whether the specified directory
+#                 exists. Creates it if it does not exist.
+# Input         : Directory Name
+# Output        : Returns the directory path.
+# Author        : Aditya Namdeo Parit
+# Date          : 28/07/2026
+#
+############################################################
 def DirectoryMaker(DirectoryName):
     ret = os.path.exists(DirectoryName)
 
@@ -91,6 +275,20 @@ def DirectoryMaker(DirectoryName):
     return DirectoryName
 
 
+############################################################
+#
+# Function Name : ProcessScanner
+# Description   : Collects system information including
+#                 CPU, RAM, Network and Running Processes.
+#                 Generates a log file and emails the
+#                 report with the log attached.
+# Input         : Sender Email, App Password,
+#                 Receiver Email, Subject
+# Output        : Log File and Email Report
+# Author        : Aditya Namdeo Parit
+# Date          : 28/07/2026
+#
+############################################################
 def ProcessScanner(Sender,app_password,receiver,subject):
     CPU_Usage = psutil.cpu_percent(interval=1)
     memory = psutil.virtual_memory()
@@ -142,7 +340,7 @@ def ProcessScanner(Sender,app_password,receiver,subject):
     for proc in psutil.process_iter():
         try:
             info = proc.as_dict(attrs=["pid","name","username"])
-
+            Pcount = Pcount +1
             fobj.write(f"""
     PID        : {info.get('pid')}
     Process    : {info.get('name')}
@@ -178,6 +376,20 @@ def ProcessScanner(Sender,app_password,receiver,subject):
     Body = BodyMaker(TimeTaken,Pcount,CPU_Usage,RAM_Usage,RAM_Available)
     send_email(Sender,app_password,receiver,subject,Body,LogFilePath)
 
+
+############################################################
+#
+# Function Name : main
+# Description   : Entry point of the application.
+#                 Validates command line arguments,
+#                 schedules the monitoring task and
+#                 starts the scheduler loop.
+# Input         : Command Line Arguments
+# Output        : Starts Platform Surveillance Automation
+# Author        : Aditya Namdeo Parit
+# Date          : 28/07/2026
+#
+############################################################
 def main():
     sys.argv[1]
 
@@ -186,10 +398,14 @@ def main():
         return
 
     Sender = "adityaparit44@gmail.com"
-    app_password = "xxxx xxxx xxxx xxxx"
+    app_password = "gtaj bzsw zymf qgfw"
     receiver =     sys.argv[2]
     subject = "Process Report"
-    ProcessScanner(Sender,app_password,receiver,subject)
+    schedule.every(1).minute.do(ProcessScanner,Sender,app_password,receiver,subject)
+
+    while True:
+        schedule.run_pending()
+        time.sleep(10)
 
 if __name__ == "__main__":
     main()
