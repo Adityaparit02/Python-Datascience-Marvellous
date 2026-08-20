@@ -6,6 +6,8 @@ from sklearn.ensemble import RandomForestClassifier
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score,confusion_matrix,precision_score,recall_score,f1_score,classification_report
+import matplotlib.pyplot as plt
+import seaborn as sns
 border = "-"*70
 
 
@@ -50,6 +52,34 @@ print(border)
 print("Filled Null Values with Median Successfully...")
 df['BareNuclei'] = df['BareNuclei'].fillna(df['BareNuclei'].median())
 print(border)
+
+# ======================================================================
+# Feature Correlation Visualization
+# ======================================================================
+print(border)
+print("Feature Correlation Matrix :")
+
+Correlation = df.corr(numeric_only=True)
+
+print(Correlation)
+print(border)
+
+# ======================================================================
+# Display Correlation Heatmap
+# ======================================================================
+plt.figure(figsize=(12, 8))
+
+sns.heatmap(
+    Correlation,
+    annot=True,
+    cmap="coolwarm",
+    fmt=".2f",
+    linewidths=0.5
+)
+
+plt.title("Feature Correlation Heatmap")
+plt.tight_layout()
+plt.show()
 
 
 # ======================================================================
